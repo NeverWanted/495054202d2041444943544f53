@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 22/06/2025",
+             "name": "Ultm. versión 28/06/2025",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 22/06/2025",
+            "info": "última versión actualizada el 28/06/2025",
             "stations": []
 	}, 
 	
@@ -45,15 +45,7 @@
 	   		"name": "              By MoDz",
 		  	"image": "https://blogger.googleusercontent.com/img/a/AVvXsEjqGaQgYNb-0Baua9YTaHXQGD-FRdwWm9V7GUINNadAYHvDJIYETkw1kbSGEJfgX-qKqgzmJpebxFYcAQUL7da-WuZQ_6JtPwdH8I1XK7T9T0duI4_edT_RQExLHtcvZMhpyGEZaXcWr2fOIsjMkKnRJo63hlyG4t8S5159h0399VnF0Fq8dxa6uKAIyq0L=w522-h653",    
 		 	"url" : ""
-   		}, {
-			"name": "",
-		   	"image": "https://i.ibb.co/pyMmb7v/To-Fix-DAZN.jpg",    
-		  	"url" : ""
-		}, {
-			"name": "",
-		   	"image": "https://i.ibb.co/qphYWXg/To-Fix-Only.jpg",    
-		  	"url" : ""
-		}]
+   		}]
 	}, 
     
     {
@@ -700,9 +692,9 @@
 			"isHost": "true"
 		  	}, {
 				"name": "Canal 4",
-				"info": "105qqn",
+				"info": "superiorcrop-105qqn",
 				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png",
-				"url" : "https://catchthrust.net/embed/105qqn",
+				"url" : "https://superiorcrop.net/embed/105qqn",
 				"referer" : "https://tarjetarojaenvivo.lat/",
 				"isHost":"true"
 			 }, {
@@ -910,8 +902,8 @@
  }, {
 	"name": "Canal 10",
 	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-	"url": "https://catchthrust.net/embed/ekm9z79niibzy",
-	  "referer": "https://gaotfoot.ru/",
+	"url": "https://new.allover.top/hembedplayer/fcafdgsg4sza/4/500/400",
+	  "referer": "https://new.allover.top/hgfxhgh7",
 	 "isHost": "true"
   }, {
 	"name": "Canal 11",
@@ -924,8 +916,8 @@
 	"name": "Canal 12",
 	"info": "h1gn2",
 	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-	"url" : "https://generalpilli.net/embed/h1gn2",
-	 "referer": "https://bedsport.live/",
+	"url" : "https://voodc.com/player/d/hn2HkaKMn4WHl8Xb1cPVtYl6rcrau9jLx5iqkpyHpKu9uIyVp8-fiI-8zJKfjpmbua3B0J6HmoSEe4aSssDbubq5zpKfjpk_/xpmDl5mpt4GIeoOSo4uijYZ8iJechMO9",
+	 "referer": "https://voodc.com/embed/85818a9aa5889f8c847a8597a087988c84.html",
 	 "isHost": "true"  
  }, {
 	"name": "Canal 13",
@@ -936,8 +928,8 @@
 	}, {
                  	"name": "Canal 14",
                     	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-		      	"url" : "https://catchthrust.net/embed/ekm9z79niibzy",
-			"referer": "https://gaotfoot.ru/",
+		      	"url" : "https://superiorcrop.net/embed/ekm9z79niibzy",
+			"referer": "https://tarjetarojaenvivo.lat/",
                     	"isHost" : "true"
 	}, {
 		"name": "Canal 15",
@@ -1351,14 +1343,14 @@
 				"name": "Canal 1",
 				"info": "Fijo: M+ | 6na79 <1>",
 				"image": "https://i.ibb.co/6chtYYr/Logo-Movistar-Liga.webp",
-				"url" : "https://catchthrust.net/embed/6na79kddf",
+				"url" : "https://superiorcrop.net/embed/6na79kddf",
 				"referer": "https://tarjetarojaenvivo.lat/",
 				"isHost": "true"
 			}, {
 				 "name": "Canal 2",
 				 "info": "Fijo: DAZN | zbz7k <1>",
 				 "image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-                      		 "url": "https://catchthrust.net/embed/zbz7klq",
+                      		 "url": "https://superiorcrop.net/embed/zbz7klq",
 				 "referer" : "https://tarjetarojaenvivo.lat/",
 				 "isHost": "true"
 			 }, {
@@ -1752,9 +1744,11 @@
 				"isHost" : "true"
 			}, { 
                  		"name": "Canal 64",
+				"info": "wnm78",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url" :  "https://x4-cdnnew.newkso.ru/x4-cdn/mono29/mono.m3u8",
-				"userAgent": ""
+                      		"url" :  "https://bloodycount.net/embed/wnm78ydq",
+				"referer": "https://bedsport.live/",
+             			"isHost": "true"
 			}, { 
                  		"name": "Canal 65",
                       		"info": "m3u8",
@@ -3055,7 +3049,7 @@
 								"name": "Canal 1",
 								"info": "m3u8",
 	   							"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-	   							"url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono88/mono.m3u8",
+	   							"url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono30/mono.m3u8",
               							"userAgent": "" 
 	 						}, {
 								"name": "Canal 2",
@@ -3066,11 +3060,10 @@
             							"isHost": "true"
 							   }, {
 								"name": "Canal 3",
-								"info": "wlloso",
+								"info": "m3u8",
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url": "https://catchthrust.net/embed/wlloso4ptv7ory",
-                               					"referer" : "https://elitegol.lat/",
-								"isHost": "true"
+								"url": "https://flu.goal9.live/daznf1/index.m3u8",
+                               					"userAgent": ""
 							 }, {
 								"name": "Canal 4",
 								"info": "laceaccept",
@@ -3286,19 +3279,19 @@
 							   }, {
 								  "name": "MotoGP Android/iOS",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								  "url":"https://tastyturbine.com/player/0bda1fae147b6b8b-29bafe6b6febee6d7b04b919fc5436ea",
-								  "isHost": "true"
+								  "url":"https://windnew.newkso.ru/wind/premium445/mono.m3u8",
+								  "userAgent": ""
 							   }, {
 								  "name": "Canal 1",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								  "url" : "https://wikihznew.newkso.ru/wikihz/wiki28/mono.m3u8",
+								  "url" : "https://wikihznew.newkso.ru/wikihz/wiki2/mono.m3u8",
 								  "userAgent":""
 							   }, {
 								  "name": "Canal 2",
-								  "info": "4kwebplay",
+								  "info": "",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-							   	  "url" : "https://4kwebplay.xyz/crv.php?id=bet6284737",
-               							  "referer" : "https://antennasports.ru/",
+							   	  "url" : "https://jointexploit.net/embed/kw6ef0n921mnbf0",
+               							  "referer" : "https://buzztv.futbol/",
 								  "isHost" : "true"
 							  }, {
 								  "name": "Canal 3",
@@ -4490,8 +4483,9 @@
               		"name": "Sky Sports Darts",
 			"info": "m3u8",
 			"image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/390c6d61066503.5a70fb4ebedee.jpg",
-			"url" : "https://fs.resilientchan.top/pdctv-37931-2025-bet-mgm-premier-league-night-three---spanish/tracks-v1a1/mono.js.m3u8",
-              		"userAgent":""
+			"url" : "https://popcdn.day/play.php?stream=OneToro",
+			"referer" : "https://www.freeshot.live/",
+                 	"isHost" : "true"
 		 }, {
               		"name": "Sky Sport Arena",
 			"info": "php - index",
@@ -4945,7 +4939,7 @@
 							   "name": "Canal 9",
 							   "info": "---",
 							   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
-							   "url": "https://moonlight.wideiptv.top/OneToro/embed.html?token=918be0a6ad65395ffd70d6eb178ec31e3bee65ba-461c4bfca388d27571aa5608ee60e282-1745098885-1745088085&remote=no_check_ip",
+							   "url": "https://moonlight.wideiptv.top/OneToro/index.fmp4.m3u8?token=cf79cc58b161d4fc180c24063c154458555c249e-2b903d8374de2d8203d29b9173c104a5-1751129633-1751118833",
 							   "userAgent":""
 					}, {
 							   "name": "Canal 10",
