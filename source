@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 29/06/2025",
+             "name": "Ultm. versión 27/07/2025",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 29/06/2025",
+            "info": "última versión actualizada el 27/07/2025",
             "stations": []
 	}, 
 	
@@ -1765,7 +1765,7 @@
                  		"name": "Canal 67",
 				"info": "m3u8",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url" :  "https://x4-cdnnew.newkso.ru/x4-cdn/mono86/mono.m3u8",
+                      		"url" :  "https://x4-cdnnew.newkso.ru/x4-cdn/mono28/mono.m3u8",
 				"userAgent": ""
 			}, { 
                  		"name": "Canal 68",
@@ -3025,8 +3025,8 @@
 							  "stations": [{
 								"name": "Canal 1",
 							  	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-								"url" :  "https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTQ5MWM3M2RmN2E0LTJhMmEtYTNjNC1mMmMyLWFlMjEyZmYz/master.m3u8",
-                              					"userAgent" : ""
+								"url" :  "https://edge.esfutbollibre.com/live/ST7d65354eceeb07f.m3u8",
+                              					"userAgent": ""
 							   }, {
 								"name": "Canal 2",
 								"info": "laceaccept",
@@ -3043,8 +3043,9 @@
 							   }, {
 								"name": "F1 Android/iOS",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url": "http://432c1b8e.edmonst.net/iptv/82WLUSL4F5QKANT4R5W7YKFX/6071/index.m3u8",
-								"userAgent": ""
+								"url": "https://bloodycount.net/embed/swdrsibexfxe5wj",
+								"referer" : "https://bedsport.live/",
+								"isHost":"true"
 							   }, {
 								"name": "Canal 1",
 								"info": "m3u8",
@@ -3062,8 +3063,9 @@
 								"name": "Canal 3",
 								"info": "m3u8",
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url": "https://flu.goal9.live/daznf1/index.m3u8",
-                               					"userAgent": ""
+								"url": "https://bloodycount.net/embed/swdrsibexfxe5wj",
+                               					"referer" : "https://bedsport.live/",
+								"isHost":"true"
 							 }, {
 								"name": "Canal 4",
 								"info": "laceaccept",
@@ -3263,8 +3265,8 @@
 							   }, {
 								  "name": "Canal 3 [F1 inglés]",
 								  "image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
-								  "url" : "https://googlapisapi.com/new-stream-embed/33695",
-								  "referer": "https://1stream.eu/",
+								  "url" : "https://1.zhdcdn.zip/go.php?a=538",
+								  "referer": "https://espngratis.com/",
 								  "isHost": "true"
 							   }, {
 								  "name": "Canal 4 [F1 inglés]",
@@ -3284,8 +3286,8 @@
 							   }, {
 								  "name": "Canal 1",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								  "url" : "https://wikihznew.newkso.ru/wikihz/wiki2/mono.m3u8",
-								  "userAgent":""
+								  "url" : "https://miztv.top/total/stream-538.php",
+								  "isHost" : "true"
 							   }, {
 								  "name": "Canal 2",
 								  "info": "",
@@ -3309,8 +3311,7 @@
 							}, {
 								  "name": "Canal 5",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								   "url" : "https://coolcast2.com/embed.php?player=desktop&live=espn3sur",
-								   "referer": "https://tucanaldeportivo.com/",
+								   "url" : "https://fnjplay.xyz/maxsport.php?id=primadazn1",
              							   "isHost": "true"
 							}, {
 								  "name": "Canal 6",
@@ -4214,8 +4215,8 @@
 		 }, {
 			"name": "Rally TV",
 			"image": "https://m.media-amazon.com/images/I/91ohYcVImFL.png",
-           		 "url" :  "https://klubsports.fun/watch/watch.php?id=707&channel=Rally%20Tv",
-			 "isHost":"true"  
+           		 "url" :  "https://dokko1new.newkso.ru/dokko1/premium607/mono.m3u8",
+			 "userAgent":""  
 		}, {
 			"name": "Rally TV",
 			"image": "https://m.media-amazon.com/images/I/91ohYcVImFL.png",
