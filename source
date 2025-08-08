@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 27/07/2025",
+             "name": "Ultm. versión 09/08/2025",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 27/07/2025",
+            "info": "última versión actualizada el 09/08/2025",
             "stations": []
 	}, 
 	
@@ -259,14 +259,4404 @@
 	{
 		"name": "Zona Ace",
 		"image": "https://i.ibb.co/jZTqDYK/AceLogo.png",
-		"stations":
+		"groups":
 				[
 					{
-                        			"name": "Señales",
-                        			"image": "https://img.freepik.com/free-icon/internet_318-875883.jpg",
-                        			"url": "https://raw.githubusercontent.com/NeverWanted/414345202d2041444943544f53/main/source",
-                        			"embed": "true"
-                    			} 
+									"name": "SOLO ANDROID",
+									"image": "https://i.ibb.co/XzhpycT/SO-Android-Logo.png",    
+									"url" : ""
+					}, {
+									"name": "Descargar App",
+									"image": "https://i.ibb.co/xsjV6j3/Logo-Ace-App.png",    
+									  "stations": 
+						[
+							{
+									  "name": "Web oficial",
+									  "image": "https://img.freepik.com/free-icon/internet_318-875883.jpg",    
+									  "url" : "https://www.acestream.org/?page=products",
+									  "embed": "true"
+							}
+						]
+					}, {
+									"name": "Zona Movistar+",
+									"image": "https://i.ibb.co/Nn2YtQG/logo-category-Movistar.png",    
+									  "stations": 
+			[       
+				
+			
+				{ 
+                	 		"name": "M+ Supercopa 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Movistar_Plus%2B_Supercopa_de_Espa%C3%B1a_logo_2023.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Supercopa 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Movistar_Plus%2B_Supercopa_de_Espa%C3%B1a_logo_2023.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Supercopa 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Movistar_Plus%2B_Supercopa_de_Espa%C3%B1a_logo_2023.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Supercopa 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Movistar_Plus%2B_Supercopa_de_Espa%C3%B1a_logo_2023.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Supercopa 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Movistar_Plus%2B_Supercopa_de_Espa%C3%B1a_logo_2023.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Supercopa 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Movistar_Plus%2B_Supercopa_de_Espa%C3%B1a_logo_2023.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				}, 
+
+
+				{ 
+                	 		"name": "M+ Copa 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_7VyaM6-fF-zE2cBfVpLpKTphr9UlALIZ3g&s",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Copa 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_7VyaM6-fF-zE2cBfVpLpKTphr9UlALIZ3g&s",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Copa 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_7VyaM6-fF-zE2cBfVpLpKTphr9UlALIZ3g&s",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Copa 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_7VyaM6-fF-zE2cBfVpLpKTphr9UlALIZ3g&s",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Copa 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_7VyaM6-fF-zE2cBfVpLpKTphr9UlALIZ3g&s",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Copa 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_7VyaM6-fF-zE2cBfVpLpKTphr9UlALIZ3g&s",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				}, 
+				
+				
+				{ 
+                	 		"name": "M+ Copa 720p",
+					"info": "base-host [ ]",
+                    			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_7VyaM6-fF-zE2cBfVpLpKTphr9UlALIZ3g&s",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Copa 720p",
+					"info": "base-agent [ ]",
+                    			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_7VyaM6-fF-zE2cBfVpLpKTphr9UlALIZ3g&s",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Copa 720p",
+					"info": "base-embed [ ]",
+                    			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_7VyaM6-fF-zE2cBfVpLpKTphr9UlALIZ3g&s",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Copa 720p",
+					"info": "get-host [ ]",
+                    			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_7VyaM6-fF-zE2cBfVpLpKTphr9UlALIZ3g&s",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Copa 720p",
+					"info": "get-agent [ ]",
+                    			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_7VyaM6-fF-zE2cBfVpLpKTphr9UlALIZ3g&s",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Copa 720p",
+					"info": "get-embed [ ]",
+                    			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_7VyaM6-fF-zE2cBfVpLpKTphr9UlALIZ3g&s",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				}, 
+
+
+				{ 
+                	 		"name": "Movistar+ 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://i.ibb.co/w0rs9nN/LogoM.webp",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Movistar+ 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://i.ibb.co/w0rs9nN/LogoM.webp",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Movistar+ 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://i.ibb.co/w0rs9nN/LogoM.webp",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "Movistar+ 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://i.ibb.co/w0rs9nN/LogoM.webp",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Movistar+ 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://i.ibb.co/w0rs9nN/LogoM.webp",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Movistar+ 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://i.ibb.co/w0rs9nN/LogoM.webp",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				}, 
+
+
+				{ 
+                	 		"name": "Movistar+ 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://i.ibb.co/w0rs9nN/LogoM.webp",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Movistar+ 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://i.ibb.co/w0rs9nN/LogoM.webp",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Movistar+ 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://i.ibb.co/w0rs9nN/LogoM.webp",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "Movistar+ 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://i.ibb.co/w0rs9nN/LogoM.webp",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Movistar+ 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://i.ibb.co/w0rs9nN/LogoM.webp",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Movistar+ 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://i.ibb.co/w0rs9nN/LogoM.webp",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "Movistar+ 2 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Movistar+ 2 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Movistar+ 2 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "Movistar+ 2 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Movistar+ 2 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Movistar+ 2 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+				
+				{ 
+                	 		"name": "Vamos 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Vamos 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Vamos 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "Vamos 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Vamos 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Vamos 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				}, 
+
+
+				{ 
+                	 		"name": "Vamos 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Vamos 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Vamos 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "Vamos 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Vamos 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Vamos 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "Vamos 720p",
+					"info": "base-host [ ]",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Vamos 720p",
+					"info": "base-agent [ ]",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Vamos 720p",
+					"info": "base-embed [ ]",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "Vamos 720p",
+					"info": "get-host [ ]",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Vamos 720p",
+					"info": "get-agent [ ]",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Vamos 720p",
+					"info": "get-embed [ ]",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "Ellas #V 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://i.ibb.co/ZhwwZZ7/logo-Vamos-Ellas.webp",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Ellas #V 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://i.ibb.co/ZhwwZZ7/logo-Vamos-Ellas.webp",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Ellas #V 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://i.ibb.co/ZhwwZZ7/logo-Vamos-Ellas.webp",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "Ellas #V 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://i.ibb.co/ZhwwZZ7/logo-Vamos-Ellas.webp",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Ellas #V 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://i.ibb.co/ZhwwZZ7/logo-Vamos-Ellas.webp",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Ellas #V 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://i.ibb.co/ZhwwZZ7/logo-Vamos-Ellas.webp",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "LaLiga TV BAR 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "LaLiga TV BAR 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "LaLiga TV BAR 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "LaLiga TV BAR 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "LaLiga TV BAR 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "LaLiga TV BAR 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				}, 
+
+
+				{ 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				}, 
+
+
+				{ 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				}, 
+
+
+				{ 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ LaLiga 720p",
+					"info": "base-host [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 720p",
+					"info": "base-agent [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 720p",
+					"info": "base-embed [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 720p",
+					"info": "get-host [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 720p",
+					"info": "get-agent [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 720p",
+					"info": "get-embed [ ]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				}, 
+
+
+				{ 
+                	 		"name": "M+ LaLiga 2 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 2 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 2 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 2 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 2 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 2 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				}, 
+
+
+				{ 
+                	 		"name": "M+ LaLiga 2 720p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 2 720p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 2 720p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 2 720p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 2 720p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 2 720p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				}, 
+
+
+				{ 
+                	 		"name": "M+ LaLiga 3 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 3 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 3 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 3 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 3 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 3 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ LaLiga 3 720p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 3 720p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 3 720p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 3 720p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 3 720p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 3 720p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ LaLiga 4 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-4-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 4 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-4-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 4 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-4-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 4 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-4-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 4 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-4-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 4 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-4-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+				{ 
+                	 		"name": "M+ LaLiga 5 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-5-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 5 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-5-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 5 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-5-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 5 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-5-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 5 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-5-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 5 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-5-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+				{ 
+                	 		"name": "M+ LaLiga 6 1080p",
+					"info": "base-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-6-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 6 1080p",
+					"info": "base-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-6-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 6 1080p",
+					"info": "base-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-6-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 6 1080p",
+					"info": "get-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-6-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 6 1080p",
+					"info": "get-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-6-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 6 1080p",
+					"info": "get-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-6-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+				{ 
+                	 		"name": "Liga Hypermotion 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "Liga Hypermotion 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "Liga Hypermotion 720p",
+					"info": "base-host [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 720p",
+					"info": "base-agent [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 720p",
+					"info": "base-embed [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 720p",
+					"info": "get-host [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 720p",
+					"info": "get-agent [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 720p",
+					"info": "get-embed [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+				{ 
+                	 		"name": "Liga Hypermotion 2 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-2-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 2 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-2-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 2 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-2-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 2 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 2 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 2 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+				{ 
+                	 		"name": "Liga Hypermotion 2 720p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-2-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 2 720p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-2-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 2 720p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-2-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 2 720p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 2 720p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 2 720p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+				{ 
+                	 		"name": "Liga Hypermotion 3 720p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-3-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 3 720p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-3-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 3 720p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-3-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 3 720p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-3-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 3 720p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-3-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 3 720p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-3-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+				{ 
+                	 		"name": "Liga Hypermotion 4 720p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-4-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 4 720p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-4-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 4 720p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-4-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 4 720p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-4-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 4 720p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-4-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 4 720p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-4-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+                		{ 
+                	 		"name": "Liga Hypermotion 5 720p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-5-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 5 720p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-5-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 5 720p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-5-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 5 720p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-5-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 5 720p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-5-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 5 720p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-5-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+                		{ 
+                	 		"name": "Liga Hypermotion 6 720p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-6-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 6 720p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-6-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 6 720p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-6-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 6 720p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-6-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 6 720p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-6-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 6 720p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-6-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+                		{ 
+                	 		"name": "Liga Hypermotion 7 720p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-7-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 7 720p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-7-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 7 720p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-7-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 7 720p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-7-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 7 720p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-7-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 7 720p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-7-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+                		{ 
+                	 		"name": "Liga Hypermotion 8 720p",
+					"info": "base-host [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 8 720p",
+					"info": "base-agent [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 8 720p",
+					"info": "base-embed [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 8 720p",
+					"info": "get-host [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 8 720p",
+					"info": "get-agent [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 8 720p",
+					"info": "get-embed [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+                		{ 
+                	 		"name": "Liga Hypermotion 9 720p",
+					"info": "base-host [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 9 720p",
+					"info": "base-agent [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 9 720p",
+					"info": "base-embed [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 9 720p",
+					"info": "get-host [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 9 720p",
+					"info": "get-agent [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 9 720p",
+					"info": "get-embed [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+                		{ 
+                	 		"name": "Liga Hypermotion 10 720p",
+					"info": "base-host [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 10 720p",
+					"info": "base-agent [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 10 720p",
+					"info": "base-embed [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 10 720p",
+					"info": "get-host [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 10 720p",
+					"info": "get-agent [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 10 720p",
+					"info": "get-embed [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+                		{ 
+                	 		"name": "Liga Hypermotion 11 720p",
+					"info": "base-host [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 11 720p",
+					"info": "base-agent [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 11 720p",
+					"info": "base-embed [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 11 720p",
+					"info": "get-host [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 11 720p",
+					"info": "get-agent [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 11 720p",
+					"info": "get-embed [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+                		{ 
+                	 		"name": "Liga Hypermotion 12 720p",
+					"info": "base-host [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 12 720p",
+					"info": "base-agent [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 12 720p",
+					"info": "base-embed [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 12 720p",
+					"info": "get-host [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 12 720p",
+					"info": "get-agent [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 12 720p",
+					"info": "get-embed [ ]",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+				{ 
+                	 		"name": "M+ Lig. Camp. 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "acestream://  ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "acestream://  ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "acestream://  ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=  ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=  ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=  ",
+					"embed": "true"
+				}, 
+
+
+				{ 
+                	 		"name": "M+ Lig. Camp. 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				}, 
+
+
+				{ 
+                	 		"name": "M+ Lig. Camp. 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				}, 
+
+
+				{ 
+                	 		"name": "M+ Lig. Camp. 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				}, 
+
+
+				{ 
+                	 		"name": "M+ Lig. Camp. 720p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 720p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 720p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 720p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 720p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 720p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				}, 
+
+
+				{ 
+                	 		"name": "M+ Lig. Camp. 720p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 720p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 720p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 720p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 720p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 720p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ Lig. Camp. 2 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 2 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 2 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 2 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 2 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 2 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				}, 
+
+
+				{ 
+                	 		"name": "M+ Lig. Camp. 2 720p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 2 720p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 2 720p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 2 720p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 2 720p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 2 720p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				}, 
+
+				
+
+				{ 
+                	 		"name": "M+ Lig. Camp. 3 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 3 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 3 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 3 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 3 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 3 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+				{ 
+                	 		"name": "M+ Lig. Camp. 3 720p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 3 720p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 3 720p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 3 720p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 3 720p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 3 720p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+				{ 
+                	 		"name": "M+ Lig. Camp. 4 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-4-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 4 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-4-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 4 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-4-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 4 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-4-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 4 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-4-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 4 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-4-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+				{ 
+                	 		"name": "M+ Lig. Camp. 5 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-5-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 5 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-5-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 5 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-5-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 5 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-5-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 5 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-5-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 5 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-5-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+				{ 
+                	 		"name": "M+ Lig. Camp. 6 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-6-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 6 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-6-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 6 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-6-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 6 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-6-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 6 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-6-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 6 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-6-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+				{ 
+                	 		"name": "M+ Lig. Camp. 7 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-7-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 7 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-7-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 7 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-7-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 7 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-7-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 7 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-7-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 7 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-7-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+				{ 
+                	 		"name": "M+ Lig. Camp. 8 1080p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-8-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 8 1080p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-8-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 8 1080p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-8-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 8 1080p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-8-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 8 1080p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-8-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 8 1080p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-8-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+				{ 
+                	 		"name": "M+ Lig. Camp. 9 720p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-9-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 9 720p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-9-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 9 720p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-9-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 9 720p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-9-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 9 720p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-9-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 9 720p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-9-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+				{ 
+                	 		"name": "M+ Lig. Camp. 10 720p",
+					"info": "base-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-10-es.png",
+                    			"url" :  "acestream://",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 10 720p",
+					"info": "base-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-10-es.png",
+                    			"url" :  "acestream://",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 10 720p",
+					"info": "base-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-10-es.png",
+                    			"url" :  "acestream://",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 10 720p",
+					"info": "get-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-10-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 10 720p",
+					"info": "get-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-10-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 10 720p",
+					"info": "get-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-10-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=",
+					"embed": "true"
+				},
+
+
+
+
+				{ 
+                	 		"name": "M+ Lig. Camp. 11 720p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-11-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 11 720p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-11-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 11 720p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-11-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 11 720p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-11-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 11 720p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-11-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 11 720p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-11-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+
+				{ 
+                	 		"name": "M+ Lig. Camp. 12 720p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-12-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 12 720p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-12-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 12 720p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-12-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 12 720p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-12-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 12 720p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-12-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 12 720p",
+					"info": "get-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-12-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ Lig. Camp. 13 720p",
+					"info": "base-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-13-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 13 720p",
+					"info": "base-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-13-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 13 720p",
+					"info": "base-embed [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-13-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 13 720p",
+					"info": "get-host [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-13-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Lig. Camp. 13 720p",
+					"info": "get-agent [ ]",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-13-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Lig. Camp. 13 720p",
+					"info": "get-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-13-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ Deportes 1080p",
+					"info": "base-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 1080p",
+					"info": "base-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 1080p",
+					"info": "base-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Deportes 1080p",
+					"info": "get-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 1080p",
+					"info": "get-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 1080p",
+					"info": "get-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ Deportes 1080p",
+					"info": "base-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 1080p",
+					"info": "base-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 1080p",
+					"info": "base-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Deportes 1080p",
+					"info": "get-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 1080p",
+					"info": "get-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 1080p",
+					"info": "get-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ Deportes 720p",
+					"info": "base-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 720p",
+					"info": "base-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 720p",
+					"info": "base-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Deportes 720p",
+					"info": "get-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 720p",
+					"info": "get-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 720p",
+					"info": "get-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ Deportes 2 1080p",
+					"info": "base-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-2-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 2 1080p",
+					"info": "base-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-2-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 2 1080p",
+					"info": "base-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-2-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Deportes 2 1080p",
+					"info": "get-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 2 1080p",
+					"info": "get-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 2 1080p",
+					"info": "get-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ Deportes 2 1080p",
+					"info": "base-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-2-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 2 1080p",
+					"info": "base-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-2-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 2 1080p",
+					"info": "base-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-2-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Deportes 2 1080p",
+					"info": "get-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 2 1080p",
+					"info": "get-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 2 1080p",
+					"info": "get-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ Deportes 2 1080p",
+					"info": "base-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-2-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 2 1080p",
+					"info": "base-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-2-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 2 1080p",
+					"info": "base-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-2-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Deportes 2 1080p",
+					"info": "get-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 2 1080p",
+					"info": "get-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 2 1080p",
+					"info": "get-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ Deportes 3 1080p",
+					"info": "base-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-3-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 3 1080p",
+					"info": "base-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-3-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 3 1080p",
+					"info": "base-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-3-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Deportes 3 1080p",
+					"info": "get-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-3-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 3 1080p",
+					"info": "get-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-3-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 3 1080p",
+					"info": "get-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-3-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ Deportes 3 1080p",
+					"info": "base-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-3-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 3 1080p",
+					"info": "base-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-3-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 3 1080p",
+					"info": "base-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-3-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Deportes 3 1080p",
+					"info": "get-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-3-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 3 1080p",
+					"info": "get-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-3-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 3 1080p",
+					"info": "get-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-3-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ Deportes 4 1080p",
+					"info": "base-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-4-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 4 1080p",
+					"info": "base-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-4-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 4 1080p",
+					"info": "base-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-4-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Deportes 4 1080p",
+					"info": "get-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-4-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 4 1080p",
+					"info": "get-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-4-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 4 1080p",
+					"info": "get-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-4-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ Deportes 5 1080p",
+					"info": "base-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-5-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 5 1080p",
+					"info": "base-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-5-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 5 1080p",
+					"info": "base-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-5-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Deportes 5 1080p",
+					"info": "get-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-5-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 5 1080p",
+					"info": "get-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-5-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 5 1080p",
+					"info": "get-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-5-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ Deportes 6 1080p",
+					"info": "base-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-6-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 6 1080p",
+					"info": "base-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-6-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 6 1080p",
+					"info": "base-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-6-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Deportes 6 1080p",
+					"info": "get-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-6-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 6 1080p",
+					"info": "get-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-6-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 6 1080p",
+					"info": "get-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-6-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ Deportes 7 1080p",
+					"info": "base-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-7-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 7 1080p",
+					"info": "base-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-7-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 7 1080p",
+					"info": "base-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-7-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Deportes 7 1080p",
+					"info": "get-host []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-7-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 7 1080p",
+					"info": "get-agent []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-7-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 7 1080p",
+					"info": "get-embed []",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-7-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ Golf 1080p",
+					"info": "base-host []",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/2560px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Golf 1080p",
+					"info": "base-agent []",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/2560px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Golf 1080p",
+					"info": "base-embed []",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/2560px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Golf 1080p",
+					"info": "get-host []",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/2560px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Golf 1080p",
+					"info": "get-agent []",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/2560px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Golf 1080p",
+					"info": "get-embed []",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/2560px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ Golf 2 1080p",
+					"info": "base-host []",
+                    			"image": "https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Golf 2 1080p",
+					"info": "base-agent []",
+                    			"image": "https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Golf 2 1080p",
+					"info": "base-embed []",
+                    			"image": "https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Golf 2 1080p",
+					"info": "get-host []",
+                    			"image": "https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Golf 2 1080p",
+					"info": "get-agent []",
+                    			"image": "https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Golf 2 1080p",
+					"info": "get-embed []",
+                    			"image": "https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				} ]
+					}, {
+								"name":"Zona DAZN",
+								"image":"https://i.ibb.co/NWLCj63/DAZN-Logo.png",
+								"stations": 
+							[
+					{ 
+									 "name": "DAZN Liga 1080p",
+									"info": "base-host []",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream:// ",
+									"isHost": "true"
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "base-agent []",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream:// ",
+									"userAgent" : ""
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "base-embed []",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream:// ",
+									"embed": "true"
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "get-host []",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+									"isHost": "true"
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "get-agent []",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+									"userAgent" : ""
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "get-embed []",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+									"embed": "true"
+							}, 
+
+
+							{ 
+								 	"name": "DAZN Liga 1080p",
+									"info": "base-host []",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream:// ",
+									"isHost": "true"
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "base-agent []",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream:// ",
+									"userAgent" : ""
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "base-embed []",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream:// ",
+									"embed": "true"
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "get-host []",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+									"isHost": "true"
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "get-agent []",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+									"userAgent" : ""
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "get-embed []",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+									"embed": "true"
+							}, 
+
+
+							{ 
+								 	"name": "DAZN Liga 1080p",
+									"info": "base-host []",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream:// ",
+									"isHost": "true"
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "base-agent []",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream:// ",
+									"userAgent" : ""
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "base-embed []",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream:// ",
+									"embed": "true"
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "get-host []",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+									"isHost": "true"
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "get-agent []",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+									"userAgent" : ""
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "get-embed []",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+									"embed": "true"
+							}, 
+
+
+							{ 
+								 	"name": "DAZN Liga 720p",
+									"info": "base-host []",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream:// ",
+									"isHost": "true"
+							}, { 
+									"name": "DAZN Liga 720p",
+									"info": "base-agent []",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream:// ",
+									"userAgent" : ""
+							}, { 
+								 	"name": "DAZN Liga 720p",
+									"info": "base-embed []",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream:// ",
+									"embed": "true"
+							}, { 
+								 	"name": "DAZN Liga 720p",
+									"info": "get-host []",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+									"isHost": "true"
+							}, { 
+								 	"name": "DAZN Liga 720p",
+									"info": "get-agent []",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+									"userAgent" : ""
+							}, { 
+								 	"name": "DAZN Liga 720p",
+									"info": "get-embed []",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+									"embed": "true"
+							},
+
+
+				{ 
+                	 		"name": "DAZN Liga 2 1080p",
+					"info": "base-host []",
+                    			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "DAZN Liga 2 1080p",
+					"info": "base-agent []",
+                    			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "DAZN Liga 2 1080p",
+					"info": "base-embed []",
+                    			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "DAZN Liga 2 1080p",
+					"info": "get-host []",
+                    			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "DAZN Liga 2 1080p",
+					"info": "get-agent []",
+                    			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "DAZN Liga 2 1080p",
+					"info": "get-embed []",
+                    			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "DAZN Liga 2 1080p",
+					"info": "base-host []",
+                    			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "DAZN Liga 2 1080p",
+					"info": "base-agent []",
+                    			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "DAZN Liga 2 1080p",
+					"info": "base-embed []",
+                    			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "DAZN Liga 2 1080p",
+					"info": "get-host []",
+                    			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "DAZN Liga 2 1080p",
+					"info": "get-agent []",
+                    			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "DAZN Liga 2 1080p",
+					"info": "get-embed []",
+                    			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "DAZN Liga 2 720p",
+					"info": "base-host []",
+                    			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "DAZN Liga 2 720p",
+					"info": "base-agent []",
+                    			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "DAZN Liga 2 720p",
+					"info": "base-embed []",
+                    			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "DAZN Liga 2 720p",
+					"info": "get-host []",
+                    			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "DAZN Liga 2 720p",
+					"info": "get-agent []",
+                    			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "DAZN Liga 2 720p",
+					"info": "get-embed []",
+                    			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+				{ 
+                	 		"name": "DAZN Liga 3 1080p",
+					"info": "base-host []",
+                    			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "DAZN Liga 3 1080p",
+					"info": "base-agent []",
+                    			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "DAZN Liga 3 1080p",
+					"info": "base-embed []",
+                    			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "DAZN Liga 3 1080p",
+					"info": "get-host []",
+                    			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "DAZN Liga 3 1080p",
+					"info": "get-agent []",
+                    			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "DAZN Liga 3 1080p",
+					"info": "get-embed []",
+                    			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+				{ 
+                	 		"name": "DAZN Liga 4 1080p",
+					"info": "base-host []",
+                    			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "DAZN Liga 4 1080p",
+					"info": "base-agent []",
+                    			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "DAZN Liga 4 1080p",
+					"info": "base-embed []",
+                    			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "DAZN Liga 4 1080p",
+					"info": "get-host []",
+                    			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "DAZN Liga 4 1080p",
+					"info": "get-agent []",
+                    			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "DAZN Liga 4 1080p",
+					"info": "get-embed []",
+                    			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+				{ 
+                	 		"name": "DAZN Liga 5 1080p",
+					"info": "base-host []",
+                    			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "DAZN Liga 5 1080p",
+					"info": "base-agent []",
+                    			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "DAZN Liga 5 1080p",
+					"info": "base-embed []",
+                    			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "DAZN Liga 5 1080p",
+					"info": "get-host []",
+                    			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "DAZN Liga 5 1080p",
+					"info": "get-agent []",
+                    			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "DAZN Liga 5 1080p",
+					"info": "get-embed []",
+                    			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+
+
+				{ 
+								 "name": "DAZN 1 1080p",
+						"info": "base-host []",
+									"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
+									"url" :  "acestream:// ",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN 1 1080p",
+						"info": "base-agent []",
+									"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
+									"url" :  "acestream:// ",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN 1 1080p",
+						"info": "base-embed []",
+									"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
+									"url" :  "acestream:// ",
+						"embed": "true"
+					}, { 
+								 "name": "DAZN 1 1080p",
+						"info": "get-host []",
+									"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN 1 1080p",
+						"info": "get-agent []",
+									"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN 1 1080p",
+						"info": "get-embed []",
+									"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"embed": "true"
+					}, 
+	
+					{ 
+								 "name": "DAZN 1 720p",
+						"info": "base-host []",
+									"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
+									"url" :  "acestream:// ",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN 1 720p",
+						"info": "base-agent []",
+									"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
+									"url" :  "acestream:// ",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN 1 720p",
+						"info": "base-embed []",
+									"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
+									"url" :  "acestream:// ",
+						"embed": "true"
+					}, { 
+								 "name": "DAZN 1 720p",
+						"info": "get-host []",
+									"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN 1 720p",
+						"info": "get-agent []",
+									"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN 1 720p",
+						"info": "get-embed []",
+									"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"embed": "true"
+					},
+	
+	
+					{ 
+								 "name": "DAZN 2 1080p",
+						"info": "base-host []",
+									"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
+									"url" :  "acestream:// ",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN 2 1080p",
+						"info": "base-agent []",
+									"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
+									"url" :  "acestream:// ",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN 2 1080p",
+						"info": "base-embed []",
+									"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
+									"url" :  "acestream:// ",
+						"embed": "true"
+					}, { 
+								 "name": "DAZN 2 1080p",
+						"info": "get-host []",
+									"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN 2 1080p",
+						"info": "get-agent []",
+									"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN 2 1080p",
+						"info": "get-embed []",
+									"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"embed": "true"
+					},
+	
+	
+					{ 
+								 "name": "DAZN 2 720p",
+						"info": "base-host []",
+									"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
+									"url" :  "acestream:// ",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN 2 720p",
+						"info": "base-agent []",
+									"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
+									"url" :  "acestream:// ",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN 2 720p",
+						"info": "base-embed []",
+									"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
+									"url" :  "acestream:// ",
+						"embed": "true"
+					}, { 
+								 "name": "DAZN 2 720p",
+						"info": "get-host []",
+									"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN 2 720p",
+						"info": "get-agent []",
+									"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN 2 720p",
+						"info": "get-embed []",
+									"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"embed": "true"
+					},
+	
+	
+					{ 
+								 "name": "DAZN 3 1080p",
+						"info": "base-host []",
+									"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
+									"url" :  "acestream:// ",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN 3 1080p",
+						"info": "base-agent []",
+									"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
+									"url" :  "acestream:// ",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN 3 1080p",
+						"info": "base-embed []",
+									"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
+									"url" :  "acestream:// ",
+						"embed": "true"
+					}, { 
+								 "name": "DAZN 3 1080p",
+						"info": "get-host []",
+									"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN 3 1080p",
+						"info": "get-agent []",
+									"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN 3 1080p",
+						"info": "get-embed []",
+									"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"embed": "true"
+					},
+	
+	
+					{ 
+								 "name": "DAZN 4 1080p",
+						"info": "base-host []",
+									"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
+									"url" :  "acestream:// ",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN 4 1080p",
+						"info": "base-agent []",
+									"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
+									"url" :  "acestream:// ",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN 4 1080p",
+						"info": "base-embed []",
+									"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
+									"url" :  "acestream:// ",
+						"embed": "true"
+					}, { 
+								 "name": "DAZN 4 1080p",
+						"info": "get-host []",
+									"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN 4 1080p",
+						"info": "get-agent []",
+									"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN 4 1080p",
+						"info": "get-embed []",
+									"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"embed": "true"
+					},
+	
+	
+					{ 
+								 "name": "DAZN F1 1080p",
+						"info": "base-host []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "acestream:// ",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN F1 1080p",
+						"info": "base-agent []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "acestream:// ",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN F1 1080p",
+						"info": "base-embed []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "acestream:// ",
+						"embed": "true"
+					}, { 
+								 "name": "DAZN F1 1080p",
+						"info": "get-host []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN F1 1080p",
+						"info": "get-agent []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN F1 1080p",
+						"info": "get-embed []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"embed": "true"
+					},
+	
+	
+					{ 
+								 "name": "DAZN F1 1080p",
+						"info": "base-host []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "acestream:// ",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN F1 1080p",
+						"info": "base-agent []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "acestream:// ",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN F1 1080p",
+						"info": "base-embed []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "acestream:// ",
+						"embed": "true"
+					}, { 
+								 "name": "DAZN F1 1080p",
+						"info": "get-host []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN F1 1080p",
+						"info": "get-agent []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN F1 1080p",
+						"info": "get-embed []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"embed": "true"
+					},
+
+
+
+					{ 
+								 "name": "DAZN F1 1080p",
+						"info": "base-host []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "acestream:// ",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN F1 1080p",
+						"info": "base-agent []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "acestream:// ",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN F1 1080p",
+						"info": "base-embed []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "acestream:// ",
+						"embed": "true"
+					}, { 
+								 "name": "DAZN F1 1080p",
+						"info": "get-host []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN F1 1080p",
+						"info": "get-agent []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN F1 1080p",
+						"info": "get-embed []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"embed": "true"
+					},
+
+
+	
+					{ 
+								 "name": "DAZN F1 720p",
+						"info": "base-host []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "acestream:// ",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN F1 720p",
+						"info": "base-agent []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "acestream:// ",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN F1 720p",
+						"info": "base-embed []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "acestream:// ",
+						"embed": "true"
+					}, { 
+								 "name": "DAZN F1 720p",
+						"info": "get-host []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN F1 720p",
+						"info": "get-agent []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN F1 720p",
+						"info": "get-embed []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"embed": "true"
+					},
+
+
+					{ 
+								 "name": "DAZN F1 720p",
+						"info": "base-host []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "acestream:// ",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN F1 720p",
+						"info": "base-agent []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "acestream:// ",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN F1 720p",
+						"info": "base-embed []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "acestream:// ",
+						"embed": "true"
+					}, { 
+								 "name": "DAZN F1 720p",
+						"info": "get-host []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN F1 720p",
+						"info": "get-agent []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN F1 720p",
+						"info": "get-embed []",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"embed": "true"
+					},
+	
+	
+					{ 
+								 "name": "Eurosport 1 1080p",
+						"info": "base-host []",
+									"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
+									"url" :  "acestream:// ",
+						"isHost": "true"
+					}, { 
+								 "name": "Eurosport 1 1080p",
+						"info": "base-agent []",
+									"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
+									"url" :  "acestream:// ",
+						"userAgent" : ""
+					}, { 
+								 "name": "Eurosport 1 1080p",
+						"info": "base-embed []",
+									"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
+									"url" :  "acestream:// ",
+						"embed": "true"
+					}, { 
+								 "name": "Eurosport 1 1080p",
+						"info": "get-host []",
+									"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"isHost": "true"
+					}, { 
+								 "name": "Eurosport 1 1080p",
+						"info": "get-agent []",
+									"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"userAgent" : ""
+					}, { 
+								 "name": "Eurosport 1 1080p",
+						"info": "get-embed []",
+									"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"embed": "true"
+					},
+	
+	
+					{ 
+								 "name": "Eurosport 2 1080p",
+						"info": "base-host []",
+									"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
+									"url" :  "acestream:// ",
+						"isHost": "true"
+					}, { 
+								 "name": "Eurosport 2 1080p",
+						"info": "base-agent []",
+									"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
+									"url" :  "acestream:// ",
+						"userAgent" : ""
+					}, { 
+								 "name": "Eurosport 2 1080p",
+						"info": "base-embed []",
+									"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
+									"url" :  "acestream:// ",
+						"embed": "true"
+					}, { 
+								 "name": "Eurosport 2 1080p",
+						"info": "get-host []",
+									"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"isHost": "true"
+					}, { 
+								 "name": "Eurosport 2 1080p",
+						"info": "get-agent []",
+									"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"userAgent" : ""
+					}, { 
+								 "name": "Eurosport 2 1080p",
+						"info": "get-embed []",
+									"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"embed": "true"
+					},
+
+
+					{ 
+								 "name": "Eurosport 2 1080p",
+						"info": "base-host []",
+									"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
+									"url" :  "acestream:// ",
+						"isHost": "true"
+					}, { 
+								 "name": "Eurosport 2 1080p",
+						"info": "base-agent []",
+									"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
+									"url" :  "acestream:// ",
+						"userAgent" : ""
+					}, { 
+								 "name": "Eurosport 2 1080p",
+						"info": "base-embed []",
+									"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
+									"url" :  "acestream:// ",
+						"embed": "true"
+					}, { 
+								 "name": "Eurosport 2 1080p",
+						"info": "get-host []",
+									"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"isHost": "true"
+					}, { 
+								 "name": "Eurosport 2 1080p",
+						"info": "get-agent []",
+									"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"userAgent" : ""
+					}, { 
+								 "name": "Eurosport 2 1080p",
+						"info": "get-embed []",
+									"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"embed": "true"
+					},
+				
+
+					{ 
+								 "name": "Eurosport 3 1080p",
+						"info": "base-host",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "acestream:// ",
+						"isHost": "false"
+					}, { 
+								 "name": "Eurosport 3 1080p",
+						"info": "base-agent",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "acestream:// ",
+						"userAgent" : "false"
+					}, { 
+								 "name": "Eurosport 3 1080p",
+						"info": "base-embed",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "acestream:// ",
+						"embed": "false"
+					}, { 
+								 "name": "Eurosport 3 1080p",
+						"info": "get-host",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"isHost": "false"
+					}, { 
+								 "name": "Eurosport 3 1080p",
+						"info": "get-agent",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"userAgent" : "false"
+					}, { 
+								 "name": "Eurosport 3 1080p",
+						"info": "get-embed",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"embed": "false"
+					},
+
+
+                    			{ 
+								 "name": "Eurosport 4 1080p",
+						"info": "base-host",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "acestream:// ",
+						"isHost": "false"
+					}, { 
+								 "name": "Eurosport 4 1080p",
+						"info": "base-agent",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "acestream:// ",
+						"userAgent" : "false"
+					}, { 
+								 "name": "Eurosport 4 1080p",
+						"info": "base-embed",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "acestream:// ",
+						"embed": "false"
+					}, { 
+								 "name": "Eurosport 4 1080p",
+						"info": "get-host",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"isHost": "false"
+					}, { 
+								 "name": "Eurosport 4 1080p",
+						"info": "get-agent",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"userAgent" : "false"
+					}, { 
+								 "name": "Eurosport 4 1080p",
+						"info": "get-embed",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"embed": "false"
+					},
+
+
+                    			{ 
+								 "name": "Eurosport 5 1080p",
+						"info": "base-host",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "acestream:// ",
+						"isHost": "false"
+					}, { 
+								 "name": "Eurosport 5 1080p",
+						"info": "base-agent",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "acestream:// ",
+						"userAgent" : "false"
+					}, { 
+								 "name": "Eurosport 5 1080p",
+						"info": "base-embed",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "acestream:// ",
+						"embed": "false"
+					}, { 
+								 "name": "Eurosport 5 1080p",
+						"info": "get-host",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"isHost": "false"
+					}, { 
+								 "name": "Eurosport 5 1080p",
+						"info": "get-agent",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"userAgent" : "false"
+					}, { 
+								 "name": "Eurosport 5 1080p",
+						"info": "get-embed",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"embed": "false"
+					},
+
+
+                    			{ 
+								 "name": "Eurosport 6 1080p",
+						"info": "base-host",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "acestream:// ",
+						"isHost": "false"
+					}, { 
+								 "name": "Eurosport 6 1080p",
+						"info": "base-agent",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "acestream:// ",
+						"userAgent" : "false"
+					}, { 
+								 "name": "Eurosport 6 1080p",
+						"info": "base-embed",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "acestream:// ",
+						"embed": "false"
+					}, { 
+								 "name": "Eurosport 6 1080p",
+						"info": "get-host",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"isHost": "false"
+					}, { 
+								 "name": "Eurosport 6 1080p",
+						"info": "get-agent",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"userAgent" : "false"
+					}, { 
+								 "name": "Eurosport 6 1080p",
+						"info": "get-embed",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"embed": "false"
+					},
+
+
+                    			{ 
+								 "name": "Eurosport 7 1080p",
+						"info": "base-host",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "acestream:// ",
+						"isHost": "false"
+					}, { 
+								 "name": "Eurosport 7 1080p",
+						"info": "base-agent",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "acestream:// ",
+						"userAgent" : "false"
+					}, { 
+								 "name": "Eurosport 7 1080p",
+						"info": "base-embed",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "acestream:// ",
+						"embed": "false"
+					}, { 
+								 "name": "Eurosport 7 1080p",
+						"info": "get-host",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"isHost": "false"
+					}, { 
+								 "name": "Eurosport 7 1080p",
+						"info": "get-agent",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"userAgent" : "false"
+					}, { 
+								 "name": "Eurosport 7 1080p",
+						"info": "get-embed",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"embed": "false"
+					},
+
+
+                    			{ 
+								 "name": "Eurosport 8 1080p",
+						"info": "base-host",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "acestream:// ",
+						"isHost": "false"
+					}, { 
+								 "name": "Eurosport 8 1080p",
+						"info": "base-agent",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "acestream:// ",
+						"userAgent" : "false"
+					}, { 
+								 "name": "Eurosport 8 1080p",
+						"info": "base-embed",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "acestream:// ",
+						"embed": "false"
+					}, { 
+								 "name": "Eurosport 8 1080p",
+						"info": "get-host",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"isHost": "false"
+					}, { 
+								 "name": "Eurosport 8 1080p",
+						"info": "get-agent",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"userAgent" : "false"
+					}, { 
+								 "name": "Eurosport 8 1080p",
+						"info": "get-embed",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"embed": "false"
+					},
+
+
+                    			{ 
+								 "name": "Eurosport 9 1080p",
+						"info": "base-host",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "acestream:// ",
+						"isHost": "false"
+					}, { 
+								 "name": "Eurosport 9 1080p",
+						"info": "base-agent",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "acestream:// ",
+						"userAgent" : "false"
+					}, { 
+								 "name": "Eurosport 9 1080p",
+						"info": "base-embed",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "acestream:// ",
+						"embed": "false"
+					}, { 
+								 "name": "Eurosport 9 1080p",
+						"info": "get-host",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"isHost": "false"
+					}, { 
+								 "name": "Eurosport 9 1080p",
+						"info": "get-agent",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"userAgent" : "false"
+					}, { 
+								 "name": "Eurosport 9 1080p",
+						"info": "get-embed",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+						"embed": "false"
+					},
+	
+	
+					{ 
+								 "name": "Liga Fem1",
+						"info": "base-host [6002]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710",
+						"isHost": "true"
+					}, { 
+								 "name": "Liga Fem1",
+						"info": "base-agent [6002]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710",
+						"userAgent" : ""
+					}, { 
+								 "name": "Liga Fem1",
+						"info": "base-embed [6002]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710",
+						"embed": "true"
+					}, { 
+								 "name": "Liga Fem1",
+						"info": "get-host [6002]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710",
+						"isHost": "true"
+					}, { 
+								 "name": "Liga Fem1",
+						"info": "get-agent [6002]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710",
+						"userAgent" : ""
+					}, { 
+								 "name": "Liga Fem1",
+						"info": "get-embed [6002]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710",
+						"embed": "true"
+					},
+	
+	
+					{ 
+								 "name": "Liga Fem2",
+						"info": "base-host [4af5]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b",
+						"isHost": "true"
+					}, { 
+								 "name": "Liga Fem2",
+						"info": "base-agent [4af5]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b",
+						"userAgent" : ""
+					}, { 
+								 "name": "Liga Fem2",
+						"info": "base-embed [4af5]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b",
+						"embed": "true"
+					}, { 
+								 "name": "Liga Fem2",
+						"info": "get-host [4af5]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b",
+						"isHost": "true"
+					}, { 
+								 "name": "Liga Fem2",
+						"info": "get-agent [4af5]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b",
+						"userAgent" : ""
+					}, { 
+								 "name": "Liga Fem2",
+						"info": "get-embed [4af5]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b",
+						"embed": "true"
+					},
+	
+	
+					{ 
+								 "name": "Liga Fem3",
+						"info": "base-host [1629]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "acestream://162942adc047d0f78eac056effbe5bbec54a5e51",
+						"isHost": "true"
+					}, { 
+								 "name": "Liga Fem3",
+						"info": "base-agent [1629]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "acestream://162942adc047d0f78eac056effbe5bbec54a5e51",
+						"userAgent" : ""
+					}, { 
+								 "name": "Liga Fem3",
+						"info": "base-embed [1629]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "acestream://162942adc047d0f78eac056effbe5bbec54a5e51",
+						"embed": "true"
+					}, { 
+								 "name": "Liga Fem3",
+						"info": "get-host [1629]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51",
+						"isHost": "true"
+					}, { 
+								 "name": "Liga Fem3",
+						"info": "get-agent [1629]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51",
+						"userAgent" : ""
+					}, { 
+								 "name": "Liga Fem3",
+						"info": "get-embed [1629]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51",
+						"embed": "true"
+					},
+	
+	
+					{ 
+								 "name": "Liga Fem4",
+						"info": "base-host [e454]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "acestream://e454681a152a86da504e63694f17f90d0586867d",
+						"isHost": "true"
+					}, { 
+								 "name": "Liga Fem4",
+						"info": "base-agent [e454]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "acestream://e454681a152a86da504e63694f17f90d0586867d",
+						"userAgent" : ""
+					}, { 
+								 "name": "Liga Fem4",
+						"info": "base-embed [e454]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "acestream://e454681a152a86da504e63694f17f90d0586867d",
+						"embed": "true"
+					}, { 
+								 "name": "Liga Fem4",
+						"info": "get-host [e454]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d",
+						"isHost": "true"
+					}, { 
+								 "name": "Liga Fem4",
+						"info": "get-agent [e454]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d",
+						"userAgent" : ""
+					}, { 
+								 "name": "Liga Fem4",
+						"info": "get-embed [e454]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d",
+						"embed": "true"
+					},
+	
+	
+					{ 
+								 "name": "Liga Fem5",
+						"info": "base-host [d6cd]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e",
+						"isHost": "true"
+					}, { 
+								 "name": "Liga Fem5",
+						"info": "base-agent [d6cd]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e",
+						"userAgent" : ""
+					}, { 
+								 "name": "Liga Fem5",
+						"info": "base-embed [d6cd]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e",
+						"embed": "true"
+					}, { 
+								 "name": "Liga Fem5",
+						"info": "get-host [d6cd]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e",
+						"isHost": "true"
+					}, { 
+								 "name": "Liga Fem5",
+						"info": "get-agent [d6cd]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e",
+						"userAgent" : ""
+					}, { 
+								 "name": "Liga Fem5",
+						"info": "get-embed [d6cd]",
+									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e",
+						"embed": "true"
+					}, 
+
+			
+				{ 
+                	 		"name": "Liga Fem6",
+					"info": "base-host [d462]",
+                    			"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+                    			"url" :  "acestream://d4627f7b6b237a8556819445b3283d866caceca2",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Fem6",
+					"info": "base-agent [d462]",
+                    			"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+                    			"url" :  "acestream://d4627f7b6b237a8556819445b3283d866caceca2",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Fem6",
+					"info": "base-embed [d462]",
+                    			"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+                    			"url" :  "acestream://d4627f7b6b237a8556819445b3283d866caceca2",
+					"embed": "true"
+				}, { 
+                	 		"name": "Liga Fem6 [d462]",
+					"info": "get-host",
+                    			"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Fem6",
+					"info": "get-agent [d462]",
+                    			"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Fem6",
+					"info": "get-embed [d462]",
+                    			"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2",
+					"embed": "true"
+				}
+				    ] 
+					}, {
+								"name":"Zona TDT",
+								"image":"https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tdt-2856157.jpg?tf=3840x",
+								"stations": 
+							[
+				
+				
+               			{ 
+                	 		"name": "La 1 1080p",
+					"info": "base-host []",
+                    			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "La 1 1080p",
+					"info": "base-agent []",
+                    			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "La 1 1080p",
+					"info": "base-embed []",
+                    			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "La 1 1080p",
+					"info": "get-host []",
+                    			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "La 1 1080p",
+					"info": "get-agent []",
+                    			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "La 1 1080p",
+					"info": "get-embed []",
+                    			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "Teledeporte 1080p",
+					"info": "base-host []",
+                    			"image": "https://i.ibb.co/7QP3X8W/tdp-logo.webp",
+                    			"url" :  "acestream:// ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Teledeporte 1080p",
+					"info": "base-agent []",
+                    			"image": "https://i.ibb.co/7QP3X8W/tdp-logo.webp",
+                    			"url" :  "acestream:// ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Teledeporte 1080p",
+					"info": "base-embed []",
+                    			"image": "https://i.ibb.co/7QP3X8W/tdp-logo.webp",
+                    			"url" :  "acestream:// ",
+					"embed": "true"
+				}, { 
+                	 		"name": "Teledeporte 1080p",
+					"info": "get-host []",
+                    			"image": "https://i.ibb.co/7QP3X8W/tdp-logo.webp",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Teledeporte 1080p",
+					"info": "get-agent []",
+                    			"image": "https://i.ibb.co/7QP3X8W/tdp-logo.webp",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Teledeporte 1080p",
+					"info": "get-embed []",
+                    			"image": "https://i.ibb.co/7QP3X8W/tdp-logo.webp",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
+					"embed": "true"
+				}
+							]
+						}
 				]
 	},
 
