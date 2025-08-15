@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 13/08/2025",
+             "name": "Ultm. versión 15/08/2025",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 13/08/2025",
+            "info": "última versión actualizada el 15/08/2025",
             "stations": []
 	}, 
 	
@@ -715,6 +715,45 @@
 
 				{ 
                 	 		"name": "M+ LaLiga 1080p",
+					"info": "base-host [00c9]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-agent [00c9]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-embed [00c9]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-host [00c9]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-agent [00c9]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-embed [00c9]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ LaLiga 1080p",
 					"info": "base-host [c932]",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
                     			"url" :  "acestream://c9321006921967d6258df6945f1d598a5c0cbf1e",
@@ -865,6 +904,84 @@
 					"info": "get-embed [6afc]",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=6afc8eb425669908813af31ead60ac251545aa6b",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-host [07f2]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://07f2b92762cfff99bba785c2f5260c7934ca6034",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-agent [07f2]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://07f2b92762cfff99bba785c2f5260c7934ca6034",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-embed [07f2]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://07f2b92762cfff99bba785c2f5260c7934ca6034",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-host [07f2]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=07f2b92762cfff99bba785c2f5260c7934ca6034",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-agent [07f2]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=07f2b92762cfff99bba785c2f5260c7934ca6034",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-embed [07f2]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=07f2b92762cfff99bba785c2f5260c7934ca6034",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-host [c32a]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://c32a2cf4631bad4bc40a15ee0f245ed30ad4d85c",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-agent [c32a]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://c32a2cf4631bad4bc40a15ee0f245ed30ad4d85c",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-embed [c32a]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://c32a2cf4631bad4bc40a15ee0f245ed30ad4d85c",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-host [c32a]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=c32a2cf4631bad4bc40a15ee0f245ed30ad4d85c",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-agent [c32a]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=c32a2cf4631bad4bc40a15ee0f245ed30ad4d85c",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-embed [c32a]",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=c32a2cf4631bad4bc40a15ee0f245ed30ad4d85c",
 					"embed": "true"
 				},
 
@@ -1187,37 +1304,37 @@
 				{ 
                 	 		"name": "Liga Hypermotion 1080p",
 					"info": "base-host [87bb]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 1080p",
 					"info": "base-agent [87bb]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Liga Hypermotion 1080p",
 					"info": "base-embed [87bb]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0",
 					"embed": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 1080p",
 					"info": "get-host [87bb]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 1080p",
 					"info": "get-agent [87bb]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Liga Hypermotion 1080p",
 					"info": "get-embed [87bb]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0",
 					"embed": "true"
 				},
@@ -1226,37 +1343,37 @@
 				{ 
                 	 		"name": "Liga Hypermotion 1080p",
 					"info": "base-host [762b]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "acestream://762b4a6ed2e70441b0374a64f25d8d6571b9fd1f",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 1080p",
 					"info": "base-agent [762b]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "acestream://762b4a6ed2e70441b0374a64f25d8d6571b9fd1f",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Liga Hypermotion 1080p",
 					"info": "base-embed [762b]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "acestream://762b4a6ed2e70441b0374a64f25d8d6571b9fd1f",
 					"embed": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 1080p",
 					"info": "get-host [762b]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=762b4a6ed2e70441b0374a64f25d8d6571b9fd1f",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 1080p",
 					"info": "get-agent [762b]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=762b4a6ed2e70441b0374a64f25d8d6571b9fd1f",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Liga Hypermotion 1080p",
 					"info": "get-embed [762b]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=762b4a6ed2e70441b0374a64f25d8d6571b9fd1f",
 					"embed": "true"
 				},
@@ -1265,37 +1382,37 @@
 				{ 
                 	 		"name": "Liga Hypermotion 720p",
 					"info": "base-host [a4f0]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 720p",
 					"info": "base-agent [a4f0]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Liga Hypermotion 720p",
 					"info": "base-embed [a4f0]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd",
 					"embed": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 720p",
 					"info": "get-host [a4f0]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 720p",
 					"info": "get-agent [a4f0]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Liga Hypermotion 720p",
 					"info": "get-embed [a4f0]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd",
 					"embed": "true"
 				},
@@ -1585,37 +1702,37 @@
                 		{ 
                 	 		"name": "Liga Hypermotion 8 720p",
 					"info": "base-host [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "acestream:// ",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 8 720p",
 					"info": "base-agent [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "acestream:// ",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Liga Hypermotion 8 720p",
 					"info": "base-embed [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "acestream:// ",
 					"embed": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 8 720p",
 					"info": "get-host [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 8 720p",
 					"info": "get-agent [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Liga Hypermotion 8 720p",
 					"info": "get-embed [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
 					"embed": "true"
 				},
@@ -1625,37 +1742,37 @@
                 		{ 
                 	 		"name": "Liga Hypermotion 9 720p",
 					"info": "base-host [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "acestream:// ",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 9 720p",
 					"info": "base-agent [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "acestream:// ",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Liga Hypermotion 9 720p",
 					"info": "base-embed [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "acestream:// ",
 					"embed": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 9 720p",
 					"info": "get-host [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 9 720p",
 					"info": "get-agent [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Liga Hypermotion 9 720p",
 					"info": "get-embed [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
 					"embed": "true"
 				},
@@ -1665,37 +1782,37 @@
                 		{ 
                 	 		"name": "Liga Hypermotion 10 720p",
 					"info": "base-host [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "acestream:// ",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 10 720p",
 					"info": "base-agent [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "acestream:// ",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Liga Hypermotion 10 720p",
 					"info": "base-embed [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "acestream:// ",
 					"embed": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 10 720p",
 					"info": "get-host [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 10 720p",
 					"info": "get-agent [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Liga Hypermotion 10 720p",
 					"info": "get-embed [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
 					"embed": "true"
 				},
@@ -1705,37 +1822,37 @@
                 		{ 
                 	 		"name": "Liga Hypermotion 11 720p",
 					"info": "base-host [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "acestream:// ",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 11 720p",
 					"info": "base-agent [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "acestream:// ",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Liga Hypermotion 11 720p",
 					"info": "base-embed [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "acestream:// ",
 					"embed": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 11 720p",
 					"info": "get-host [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 11 720p",
 					"info": "get-agent [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Liga Hypermotion 11 720p",
 					"info": "get-embed [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
 					"embed": "true"
 				},
@@ -1745,37 +1862,37 @@
                 		{ 
                 	 		"name": "Liga Hypermotion 12 720p",
 					"info": "base-host [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "acestream:// ",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 12 720p",
 					"info": "base-agent [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "acestream:// ",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Liga Hypermotion 12 720p",
 					"info": "base-embed [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "acestream:// ",
 					"embed": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 12 720p",
 					"info": "get-host [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 12 720p",
 					"info": "get-agent [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Liga Hypermotion 12 720p",
 					"info": "get-embed [ ]",
-                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id= ",
 					"embed": "true"
 				},
@@ -5289,7 +5406,7 @@
 				"name": "Canal 6",
 				"info": "m3u8",
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
-				"url" : "http://432c1b8e.edmonst.net/iptv/82WLUSL4F5QKANT4R5W7YKFX/6066/index.m3u8",
+				"url" : "https://dokko1new.newkso.ru/dokko1/premium528/mono.m3u8",
 			 	"userAgent":""
 		       }, {
         			"name": "Canal 7*",
@@ -5310,13 +5427,14 @@
 		"stations": [{
 			"name": "Canal 1",
 		   	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-		 	"url" : "https://rockhd.lol/live/stream-445.php",
+		 	"url" : "https://bloodycount.net/embed/wnm78ydq",
+			"referer" : "https://bedsport.live/",
 		   	"isHost" : "true"
 	  }, {
 			   "name": "Canal 2",
 			   "info": "csdj-xmr0x | tjtr",
 			   "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-			   "url": "https://closedjelly.net/embed/xmr0xxbbmzod",
+			   "url": "https://bloodycount.net/embed/xmr0xxbbmzod",
 			   "referer": "https://tarjetarojaenvivo.lat/",
 			   "isHost": "true"
 	  }, {
@@ -5408,7 +5526,7 @@
 	 		}, {
 			"name": "Canal 16",
 			   "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-			   "url":"https://x4-cdnnew.newkso.ru/x4-cdn/mono30/mono.m3u8",
+			   "url":"https://x4-cdnnew.newkso.ru/x4-cdn/mono29/mono.m3u8",
 			   "userAgent" : ""
 		 	}, {
 				"name": "Canal 17",
@@ -5460,8 +5578,8 @@
 			"name": "Canal 1",
 			"info": "php",
 		   	"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-		 	"url" : "https://new.alldown.xyz/hembedplayer/fgrhyfj3bgfh/4/500/400",
-			"referer" : "https://new.alldown.xyz/fgrhyfj3bgfh",
+		 	"url" : "https://tutvlive.xyz/mpd/tvfhd.php?sTL3?id=446",
+			"referer" : "https://tutvlive.xyz/",
 			"isHost": "true"
 			   },{ 
 			"name": "Canal 2",
@@ -5809,60 +5927,59 @@
 		[
 			{
 				"name": "Canal 1",
-				"info": "Fijo: M+ | 6na79 <1>",
+				"info": "Fijo: M+ | 8xjd <1>",
 				"image": "https://i.ibb.co/6chtYYr/Logo-Movistar-Liga.webp",
-				"url" : "https://superiorcrop.net/embed/6na79kddf",
+				"url" : "https://browncrossing.net/embed/8xjdm9xmx8ys",
 				"referer": "https://tarjetarojaenvivo.lat/",
 				"isHost": "true"
 			}, {
 				 "name": "Canal 2",
-				 "info": "Fijo: DAZN | zbz7k <1>",
+				 "info": "Fijo: DAZN | w2iuo <1>",
 				 "image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-                      		 "url": "https://superiorcrop.net/embed/zbz7klq",
+				 "url": "https://linearroute.net/embed/w2iuo",
 				 "referer" : "https://tarjetarojaenvivo.lat/",
 				 "isHost": "true"
 			 }, {
 				"name": "Canal 3",
-				"info": "Fijo: M+ | 6na79 <2>",
+				"info": "Fijo: M+ | 8xjd <2>",
 				"image": "https://i.ibb.co/6chtYYr/Logo-Movistar-Liga.webp",
-				"url" :  "https://freckledine.net/embed/6na79kddf",
+				"url" :  "https://freckledine.net/embed/8xjdm9xmx8ys",
 				"referer" : "https://tarjetarojaenvivo.lat/",
 				"isHost": "true"  
 			 }, {
 				"name": "Canal 4",
-				"info": "Fijo: DAZN | zbz7k <2>",
+				"info": "Fijo: DAZN | w2iuo <2>",
 				"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-				"url" :  "https://freckledine.net/embed/zbz7klq",
+				"url" :  "https://freckledine.net/embed/w2iuo",
 				"referer" : "https://tarjetarojaenvivo.lat/",
 				"isHost": "true"
 			}, {
 				"name": "Canal 5",
-				"info": "Fijo: M+ | 6na79 <3>",
+				"info": "Fijo: M+ | 8xjd <3>",
 				"image": "https://i.ibb.co/6chtYYr/Logo-Movistar-Liga.webp",
-				"url" :  "https://swipebreed.net/embed/6na79kddf",
+				"url" :  "https://swipebreed.net/embed/8xjdm9xmx8ys",
 				"referer" : "https://tarjetarojaenvivo.lat/",
 				"isHost": "true"
 			 }, {
 				"name": "Canal 6",
-				"info": "Fijo: DAZN | zbz7k <3>",
+				"info": "Fijo: DAZN | w2iuo <3>",
 				"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-				"url" :  "https://swipebreed.net/embed/zbz7klq",
+				"url" :  "https://swipebreed.net/embed/w2iuo",
 				"referer" : "https://tarjetarojaenvivo.lat/",
 				"isHost": "true" 
 			}, {
 				"name": "Canal 7",
-				"info": "4kwebplay",
+				"info": "bloody",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://4kwebplay.xyz/maxsport.php?id=primaespndeportes", 
-                         	"referer" : "https://antenasport.online/",
+				"url" : "https://bloodycount.net/embed/e4ibxltyf3ea0", 
+				"referer" : "https://bedsport.live/",
 				"isHost" : "true"
 			  }, {
 				"name": "Canal 8",
-				"info": "abol-h2kio | -",
+				"info": "m3u8",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" :  "https://browncrossing.net/embed/8xjdm9xmx8ys",
-				"referer" : "https://tarjetarojaenvivo.lat/",
-				"isHost" : "true"
+				"url" :  "https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8",
+				"userAgent": ""
 				 }, {
 				"name": "Canal 9",
 			   	"info": "php",
@@ -6321,45 +6438,45 @@
 				"info": "",
 				"stations": [{
 					"name": "Canal 1",
-					"info": "chtt-opthn | tjtr",
-					"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
-					"url" :  "https://catchthrust.net/embed/opthng68di66m",
-					"referer" : "https://tarjetarojaenvivo.lat/",
+					"info": "bed-3d44 | tjtr",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
+					"url" :  "https://bloodycount.net/embed/3d44n21uf8pkocd",
+					"referer" : "https://bedsport.live/",
            				"isHost" : "true"  
 				  }, {
 					"name": "Canal 2",
 					"info": "csdj-xfkc2i | tjtr",
 		   			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-2-es.png",
-			   		"url" :  "https://catchthrust.net/embed/xfkc2i",
-					"referer" : "https://tarjetarojaenvivo.lat/",
+			   		"url" :  "https://bloodycount.net/embed/swdrsibexfxe5wj",
+					"referer" : "https://bedsport.live/",
 			 		"isHost":"true"
 				   }, {
 					"name": "Canal 3",
 					"info": "frck-opthn | tjtr",
-					"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
-					"url" :  "https://freckledine.net/embed/opthng68di66m",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
+					"url" :  "https://freckledine.net/embed/3d44n21uf8pkocd",
 					"referer" : "https://tarjetarojaenvivo.lat/",
            				"isHost" : "true"
 					   }, {
 					"name": "Canal 4",
 					"info": "***-xfkc2i | tjtr",
 					"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-2-es.png",
-					"url" :  "https://laceaccept.net/embed/xfkc2i",
+					"url" :  "https://laceaccept.net/embed/swdrsibexfxe5wj",
 					"referer" : "https://tarjetarojaenvivo.lat/",
 			 		"isHost":"true"
 						}, {
 					"name": "Canal 5",
 					"info": "***-opthn | tjtr",
-					"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
-					"url" : "https://laceaccept.net/embed/opthng68di66m",
-                  			"referer" : "https://tarjetarojaenvivo.lat/",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
+					"url" : "https://laceaccept.net/embed/3d44n21uf8pkocd",
+					"referer" : "https://tarjetarojaenvivo.lat/",
 					 "isHost": "true"
 					  }, {
 					"name": "Canal 6",
 					"info": "swpb-xfkc2i | tjtr",
 					"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-2-es.png",
-					"url" : "https://browncrossing.net/embed/xfkc2i",
-              				"referer" : "https://tarjetarojaenvivo.lat/",
+					"url" : "https://browncrossing.net/embed/swdrsibexfxe5wj",
+					"referer" : "https://tarjetarojaenvivo.lat/",
 					"isHost" : "true"
 				   }, {
 					"name": "Canal 7",
@@ -7493,8 +7610,8 @@
 							  "stations": [{
 								"name": "Canal 1",
 							  	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-								"url" :  "https://edge.esfutbollibre.com/live/ST7d65354eceeb07f.m3u8",
-                              					"userAgent": ""
+								"url" :  "https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8",
+								"userAgent": ""
 							   }, {
 								"name": "Canal 2",
 								"info": "laceaccept",
