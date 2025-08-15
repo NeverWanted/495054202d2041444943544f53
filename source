@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 15/08/2025",
+             "name": "Ultm. versión 15.1/08/2025",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 15/08/2025",
+            "info": "última versión actualizada el 15.1/08/2025",
             "stations": []
 	}, 
 	
@@ -5976,23 +5976,22 @@
 				"isHost" : "true"
 			  }, {
 				"name": "Canal 8",
-				"info": "m3u8",
+				"info": "8xjdm",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" :  "https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8",
-				"userAgent": ""
+				"url" :  "https://browncrossing.net/embed/8xjdm9xmx8ys",
+				"referer" : "https://tarjetarojaenvivo.lat/",
+				"isHost" : "true"
 				 }, {
 				"name": "Canal 9",
 			   	"info": "php",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" :  "https://letcast.pro/steam.php?stream=YJ8krnYwZrR",
-				"referer" : "https://hyperstream.click/",
+				"url" :  "https://tiroalpalo.me/index.php?option=com_sppagebuilder&view=page&id=16",
 				"isHost" : "true"
 					  }, {
 						   	"name": "Canal 10",
-							"info": "zh44p",
+							"info": "emb",
 						   	"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-						  	"url" : "https://laceaccept.net/embed/zh44pyu5dpby",
-              						"referer" : "https://tarjetarojaenvivo.lat/",
+						  	"url" : "https://emb.apl375.me/player/live.php?id=240511&w=728&h=480",
 			 				"isHost":"true"
 					}, {
 							"name": "Canal 11",
@@ -6499,21 +6498,19 @@
 				}, {
 					"name": "Canal 10",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url": "https://live.reddit-soccerstreamss.online/reddit/5.php",
-               				"referer" : "https://tv3-sport.xyz/",
-           				"isHost" : "true"
+					"url": "https://new.allover.top/hembedplayer/fcafdgsg4sza/4/500/400",
+					"referer" : "https://new.allover.top/fcafdgsg4sza",
+					"isHost" : "true"
 				}, {
 					"name": "Canal 11",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://laceaccept.net/embed/ds13z4tuaur39a",
-              				"referer": "https://tarjetarojaenvivo.lat/",
-           				"isHost" : "true"
+					"url" : "https://streamingon.org/embed/hd-6.php",
+					"isHost" : "true"
 				}, {
 					"name": "Canal 12",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://laceaccept.net/embed/g61pboptvk4v0",
-					"referer" : "https://tarjetarojaenvivo.lat/",
-           				"isHost" : "true"
+					"url" : "https://pandastreamz.shop/player/stream-538.php",
+					"isHost" : "true"
 				}, {
 					"name": "Canal 13",
 					"info": "php",
