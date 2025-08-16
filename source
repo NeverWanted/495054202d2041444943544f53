@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 15.1/08/2025",
+             "name": "Ultm. versión 16/08/2025",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 15.1/08/2025",
+            "info": "última versión actualizada el 16/08/2025",
             "stations": []
 	}, 
 	
@@ -5427,7 +5427,7 @@
 		"stations": [{
 			"name": "Canal 1",
 		   	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-		 	"url" : "https://bloodycount.net/embed/wnm78ydq",
+		 	"url" : "https://bloodycount.net/embed/re856noa",
 			"referer" : "https://bedsport.live/",
 		   	"isHost" : "true"
 	  }, {
@@ -5985,13 +5985,14 @@
 				"name": "Canal 9",
 			   	"info": "php",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" :  "https://tiroalpalo.me/index.php?option=com_sppagebuilder&view=page&id=16",
+				"url" :  "https://playcast.click/steam.php?stream=4eLyr2RZq7v",
+				"referer" : "https://mediacast.click/",
 				"isHost" : "true"
 					  }, {
 						   	"name": "Canal 10",
-							"info": "emb",
+							"info": "php",
 						   	"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-						  	"url" : "https://emb.apl375.me/player/live.php?id=240511&w=728&h=480",
+						  	"url" : "https://miztv.top/total/stream-538.php",
 			 				"isHost":"true"
 					}, {
 							"name": "Canal 11",
@@ -7863,12 +7864,12 @@
 							   }, {
 								  "name": "MotoGP Android/iOS",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								  "url":"https://windnew.newkso.ru/wind/premium445/mono.m3u8",
-								  "userAgent": ""
+								  "url":"https://romandic9.u8a8eemptyn9j44parent.shop/es/motorsport/motogp-1967846/motogp-spielberg-austria---race-1.html?icg=Tkw&ilang=es",
+								  "isHost" : "true"
 							   }, {
 								  "name": "Canal 1",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								  "url" : "https://miztv.top/total/stream-538.php",
+								  "url" : "",
 								  "isHost" : "true"
 							   }, {
 								  "name": "Canal 2",
@@ -7879,11 +7880,10 @@
 								  "isHost" : "true"
 							  }, {
 								  "name": "Canal 3",
-								  "info": "csdj-zbz7k | tjtr",
+								  "info": "m3u8",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								   "url": "https://closedjelly.net/embed/zbz7klq",
-								  "referer": "https://tarjetarojaenvivo.lat/",
-								   "isHost": "true"
+								  "url": "https://seed.nakachi.online/hls/tnt2-uk/playlist.m3u8",
+								  "userAgent":""
 							   }, {
 								  "name": "Canal 4",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
@@ -9012,28 +9012,29 @@
 		 }, {
 			"name": "TNT Sport 1",
 			"image": "https://media.info/l/o/1/1539.1690027797.png",
-			"url" :  "https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZmUwNDliYzBmMmUzLTBkMTgtN2Y4NC03N2JmLWNmYjZlMTBh/master.m3u8",
+			"url" :  "https://seed.nakachi.online/hls/tnt1-uk/playlist.m3u8",
 			"userAgent":""
 		 }, {
 			"name": "TNT Sport 2",
 			"image": "https://media.info/l/o/1/1540.1690027877.png",
-			"url" :  "https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MTE0MmY5MTEzOGMzLWM1NzktYjkxNC02MmUxLTg5NmMxMjJi/master.m3u8",
+			"url" :  "https://seed.nakachi.online/hls/tnt2-uk/playlist.m3u8",
 			"userAgent":""
 		 }, {
 			"name": "TNT Sport 3",
 			"image": "https://media.info/l/o/5/5712.1690027954.png",
-			"url" :  "https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZjlhNTQ5N2M1NzJhLTMwNTktODMxNC1jZmVjLTE3YjQ2ODQ5/master.m3u8",
+			"url" :  "https://seed.nakachi.online/hls/tnt3-uk/playlist.m3u8",
 			"userAgent":""
 		 }, {
 			"name": "TNT Sport 4",
 			"image": "https://media.info/l/o/1/1491.1690027975.png",
-			"url" :  "https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YzVkMjU2NTdiNjNhLTk3ZmItYjY5NC0yOTU0LTMwNTU5ZTQ3/master.m3u8",
+			"url" :  "https://seed.nakachi.online/hls/tnt4-uk/playlist.m3u8",
 			"userAgent":""
 		 }, {
 			"name": "Win Sports",
 			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgANgt1BwSbQiMPhZ9Q0FmfBBK_RBkAx6CS3533vjvJsseBWE6oCJpYPLir09aIhfokconXkQ-ez7LL4nTwleCrXG_w4wvNTgsihYiIPGawIOPJzjbyHrh2gBg-NV0peWG3bu_AYYs_QCI7pMQjE7he69Xi34P09Gf8jNB-m_x0JT9nIaXTWpzk3VEEex4_/w498-h256/logo-WS.png",
-			"url": "https://topembed.pw/channel/WINSports[Colombia]",
-	           	"isHost": "true"    
+			"url": "https://bloodycount.net/embed/h1gn2",
+			"referer" : "https://bedsport.live/",
+			"isHost": "true"    
                }, {
 			"name": "Win Sports",
 			"info": "php - index",
