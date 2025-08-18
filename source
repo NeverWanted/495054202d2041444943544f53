@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 17/08/2025",
+             "name": "Ultm. versión 18/08/2025",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 17/08/2025",
+            "info": "última versión actualizada el 18/08/2025",
             "stations": []
 	}, 
 	
@@ -4875,10 +4875,12 @@
 			"isHost":"true"
 		 }, {
 				"name": "Canal 3",
-				"info": "m3u8",
+				"info": "php",
 				"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
-			   	"url": "https://windnew.koskoros.ru/wind/premium521/mono.m3u8",
-				"userAgent": ""
+			   	"url": "https://miztv.top/stream/stream-521.php",
+				"userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
+				"referer": "https://miztv.top",
+				"isHost": "true"
 				}, {
 				"name": "Canal 4",
 				"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
@@ -4964,10 +4966,10 @@
         				"isHost":""
         		}, {
 				"name": "Canal 1",
-				"info": "m3u8",
+				"info": "php",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png", 
-		 		"url" : "https://jf1.naqsheala.com:999/hls/do28.m3u8?md5=bXyKOTAzZj__J1v93-PD2A&expires=1744139676",
-              			"userAgent":""
+		 		"url" : "https://miztv.top/stream/stream-435.php",
+				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 			 }, {
 				"name": "Canal 2",
 				"info": "csdj-plo0t | tjtr",
@@ -5197,9 +5199,8 @@
 		 	}, {
 				"name": "Canal 1",
 				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-				"url" :  "https://ilovetoplay.xyz/maxsport.php?id=primamovistar2",
-				"referer" : "https://antenasport.online/",
-                		"isHost":"true"
+				"url" :  "https://miztv.top/stream/stream-436.php",
+				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 		  	}, {  
 				"name": "Canal 2",
 				"info": "csdj-89ftq | tjtr",
@@ -5260,9 +5261,8 @@
 			"name": "Canal 1",
 			"info": "laceaccept",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png",
-		 	"url" :  "https://laceaccept.net/embed/f3cstn9tlhuu",
-			"referer" : "https://tarjetarojaenvivo.lat/",
-		 	"isHost":"true"  
+		 	"url" :  "https://miztv.top/stream/stream-438.php",
+			"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"  
          		}, {
 			"name": "Canal 2",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png",
@@ -5404,10 +5404,10 @@
 			   	"userAgent" : ""
 			 }, {
 				"name": "Canal 6",
-				"info": "m3u8",
+				"info": "php",
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
-				"url" : "https://dokko1new.newkso.ru/dokko1/premium528/mono.m3u8",
-			 	"userAgent":""
+				"url" : "https://miztv.top/stream/stream-528.php",
+			 	"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 		       }, {
         			"name": "Canal 7*",
         			"info":"",
@@ -5586,6 +5586,8 @@
 			"info": "php",
 		   	"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
 		 	"url": "https://tutvlive.xyz/tvtodo/dazn2.php",
+			"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
+			"referer" : "https://forcedtoplay.xyz/",
 			"isHost": "true"
 			   },{ 
 				"name": "Canal 3",
@@ -5670,8 +5672,9 @@
 				"name": "Canal 2",
 				"info": "csdj-xvofy | tjtr",
 			   	"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-				"url": "https://closedjelly.net/embed/xvofyfktwqkwrr",
-	   			"referer" : "https://tarjetarojaenvivo.lat/",
+				"url": "https://tutvlive.xyz/tvtodo/dazn3.php",
+	   			"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
+				"referer" : "https://forcedtoplay.xyz/",
 	   			"isHost":"true"
 	  }, { 
 			"name": "Canal 3",
@@ -5745,9 +5748,11 @@
 			}, { 
 				"name": "Canal 1",
 				"info": "",
-			   "image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-			   "url" :  "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YzZjMWI1OGQ2NjM0LTYxZWEtZDcwNC01MjFkLWIyZGYwN2E2/master.m3u8",
-			   "userAgent": ""
+			   	"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
+			   	"url" :  "https://tutvlive.xyz/tvtodo/dazn4.php",
+			   	"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
+				"referer" : "https://forcedtoplay.xyz/",
+				"isHost":"true"
 		  }, { 
 			"name": "Canal 2",
 			"info": "wnm78",
@@ -5963,8 +5968,8 @@
 				"name": "Canal 6",
 				"info": "Fijo: DAZN | w2iuo <3>",
 				"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-				"url" :  "https://swipebreed.net/embed/w2iuo",
-				"referer" : "https://tarjetarojaenvivo.lat/",
+				"url" :  "https://brainknock.net/embed/e4ibxltyf3ea0",
+				"referer" : "https://bedsport.live/",
 				"isHost": "true" 
 			}, {
 				"name": "Canal 7",
@@ -6090,10 +6095,10 @@
 				"isHost": "true" 
 			}, {
 				"name": "Canal 26",
-				"info": "m3u8",
+				"info": "m3u8*",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://windnew.newkso.ru/wind/premium84/mono.m3u8",
-			      	"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+				"url" : "https://max2new.newkso.ru/wind/premium84/mono.m3u8",
+				"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 			}, {
 				"name": "Canal 27",
 				"info": "php",
@@ -7630,10 +7635,12 @@
 								"isHost":"true"
 							   }, {
 								"name": "Canal 1",
-								"info": "m3u8",
+								"info": "php",
 	   							"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-	   							"url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono30/mono.m3u8",
-              							"userAgent": "" 
+	   							"url" : "https://tutvlive.xyz/tvtodo/daznf1.php",
+								"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
+                        		"referer" : "https://forcedtoplay.xyz/",
+                                "isHost":"true" 
 	 						}, {
 								"name": "Canal 2",
 								"info": "nid5m8",
@@ -7847,8 +7854,8 @@
 							   }, {
 								  "name": "Canal 3 [F1 inglés]",
 								  "image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
-								  "url" : "https://1.zhdcdn.zip/go.php?a=538",
-								  "referer": "https://espngratis.com/",
+								  "url" : "https://admitsettle.net/embed/xim5l82td952sj6",
+								  "referer": "https://elixx.cc/",
 								  "isHost": "true"
 							   }, {
 								  "name": "Canal 4 [F1 inglés]",
@@ -8796,7 +8803,7 @@
 		 }, {
 			"name": "Rally TV",
 			"image": "https://m.media-amazon.com/images/I/91ohYcVImFL.png",
-           		 "url" :  "https://dokko1new.newkso.ru/dokko1/premium607/mono.m3u8",
+           		 "url" :  "https://freqsyndlin.rally.tv/585/hls/master/playlist.m3u8",
 			 "userAgent":""  
 		}, {
 			"name": "Rally TV",
@@ -8851,9 +8858,9 @@
                 }, {
                     	"name": "ESPN",
                     	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFoCgAwvY3pqWo-gTfR1ztkB9Qdf8KTJOQ0J32bfi1s3i3-Fc_oyZOnJVbCOW4Dw7qJ2Es5Y15C3Nksg777ccGUeUf2we7Wi0v-NZrq3gWo-wivlXy6Vk8TCDxy1EhFfHRF_PWoZUDBECPnjcXkYz75-ER0uTsTNT3og97FtqTajlZQDlAyLF7pDvq4S6U/w545-h327/logo-ESPN.png",
-                	"url" : "https://la12hd.com/vivo/canal.php?stream=espn",
-                   	"referer" : "https://zzcointv.xyz/",
-			"isHost":"true"
+                		"url" : "https://la14hd.com/vivo/canales.php?stream=espn",
+                   		"userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
+						"isHost": "true"
 	    	},{
                     	"name": "ESPN",
 			"info": "",
@@ -8871,21 +8878,22 @@
                  },{
                      "name": "ESPN2",
                      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJTIdLe_W2pLAwmwO087heMSKLjFZBEjpttLnLvBKh6nEoUOOKyZGp8_IFgyfkjUOi7qI1c6HHRlTIq4lSq3ELEIapYFCxX9V6h6CTwz9XAtO0bsus_WbHQxpEsVYdrQGobWN-LnDvARmM_QydmASnjZDKXRr3wisuYGBaZodpq66cduudD6ZBJSLR4nJL/w619-h118/logo-ESPN2.png",
-                     "url":"https://la12hd.com/vivo/canal.php?stream=espn2",
-            	     "referer" : "https://zzcointv.xyz/",
-		     "isHost":"true"
+                     "url":"https://la14hd.com/vivo/canales.php?stream=espn2",
+            	     "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
+		     		 "isHost":"true"
 	    	},{
                     "name": "ESPN3",
                     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFbUXDxdnBL_-bzHyQ4de57zyIdAHO_D7_xqRLxjPA11rS1oV8SsCvOZ-gkXqI6Q1-iMvAQCpkNsbGywm-QZ8nHbL1PpZtf5CjMw25oyCD9VxUQvR5-P7dHXv0siIE-_wAopjZCboU_nwXqLjVd2V3-zpU668Hm1wtLGIiU4yb03imy-bX52yKQ2Tcluub/w568-h117/logo-ESPN3.png",
-		    "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NmNkZTI3N2M4MTgyLTQwYjktN2VjNC02MTE0LTBhNzY2NWE2/master.m3u8",
-                     "userAgent":""
-                  },{
+		    		"url": "https://la14hd.com/vivo/canales.php?stream=espn3",
+				 	"userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
+					"isHost": "true"
+		  },{
                      "name": "ESPN3",
-		     "info": "php - index",
+		     		 "info": "php - index",
                      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFbUXDxdnBL_-bzHyQ4de57zyIdAHO_D7_xqRLxjPA11rS1oV8SsCvOZ-gkXqI6Q1-iMvAQCpkNsbGywm-QZ8nHbL1PpZtf5CjMw25oyCD9VxUQvR5-P7dHXv0siIE-_wAopjZCboU_nwXqLjVd2V3-zpU668Hm1wtLGIiU4yb03imy-bX52yKQ2Tcluub/w568-h117/logo-ESPN3.png",
                      "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=375",
               	     "referer" : "https://dlhd.sx/",
-		     "isHost":"true"
+		     		 "isHost":"true"
 		}, {
               		"name": "ESPN U",
 			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIjdyT6UYpZOxvSBgJsZPDjflj9ESy5zGGcP16B_qRlF_LwEyoA5I3X7sbzQp4-hBJg7DjIwlnMpJZsFlcfp6gsctS-c1lO2K7P7Sa6NS6YUK1WqqvzDqtJGBiSmqILGlyDmCQOY0tDtXDDBzm7b9AY8dr5OnfH-soHmGUbNDit1iXERXdoLKS7RGofB49/w433-h433/logo-ESPNU.png",
@@ -9069,10 +9077,10 @@
 			"isHost":"true"
 	  	}, {
               		"name": "Sky Sports Darts",
-			"info": "m3u8",
-			"image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/390c6d61066503.5a70fb4ebedee.jpg",
-			"url" : "https://popcdn.day/play.php?stream=OneToro",
-			"referer" : "https://www.freeshot.live/",
+					"info": "php",
+					"image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/390c6d61066503.5a70fb4ebedee.jpg",
+					"url" : "https://la14hd.com:443/vivo/canales.php?stream=disney1",
+					"userAgent" : "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
                  	"isHost" : "true"
 		 }, {
               		"name": "Sky Sport Arena",
