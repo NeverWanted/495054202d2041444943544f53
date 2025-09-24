@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 18/09/2025",
+             "name": "Ultm. versión 24/09/2025",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 18/09/2025",
+            "info": "última versión actualizada el 24/09/2025",
             "stations": []
 	}, 
 	
@@ -5917,7 +5917,7 @@
 				"name": "Canal 22",
 				"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
 				"url" : "https://generalpilli.net/embed/wnm78ydq",
-				"referer" : "https://bedsport.live/",
+				"referer" : "https://dabac.link",
 	 			"isHost": "true"  
  			}, {
 				"name": "Canal 23",
@@ -6318,15 +6318,15 @@
 				"name": "Canal 6",
 				"info": "Fijo: DAZN | w2iuo <3>",
 				"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-				"url" :  "https://brainknock.net/embed/e4ibxltyf3ea0",
+				"url" :  "https://bloodycount.net/embed/e4ibxltyf3ea0",
 				"referer" : "https://bedsport.live/",
 				"isHost": "true" 
 			}, {
 				"name": "Canal 7",
 				"info": "e4ibx",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://bloodycount.net/embed/e4ibxltyf3ea0", 
-				"referer" : "https://bedsport.live/",
+				"url" : "https://la14hd.com:443/vivo/canales.php?stream=disney1", 
+				"userAgent" : "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
 				"isHost" : "true"
 			  }, {
 				"name": "Canal 8",
@@ -6339,8 +6339,8 @@
 				"name": "Canal 9",
 			   	"info": "php",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" :  "https://mediacast.click/emb01/beinlaliga.php",
-				"referer" : "https://mediacast.click/live/beinlaliga_spain.php",
+				"url" :  "https://1.zhdcdn.zip/embed2.php?a=976&s=3dea3654924865fff5fc8cfca5eb39f5&ip=23.106.56.11&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A139.0%29+Gecko%2F20100101+Firefox%2F139.0&referer=https%3A%2F%2Fespngratis.com%2F",
+				"referer" : "https://1.zhdcdn.zip/play.php?id=976",
 				"isHost" : "true"
 					  }, {
 						   	"name": "Canal 10",
@@ -6380,8 +6380,8 @@
 							"name": "Canal 15",
 							"info": "allover",
 							"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-							"url" : "https://new.allover.top/hembedplayer/gsfgs4fdscxzx/4/500/400",
-							 "referer": "https://new.allover.top/gsfgs4fdscxzx",
+							"url" : "https://new.allover.top/hembedplayer/hgdejhfsdhd44md/4/500/400",
+							 "referer": "https://new.allover.top/hgdejhfsdhd44md",
 							 "isHost": "true" 
 						}, {
 							 	"name": "Canal 16",
@@ -6464,8 +6464,9 @@
 			}, {
 				"name": "Canal 29",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://emb.apl232.me/player/live.php?id=211608&w=100%&h=100%",
-				 "isHost": "true" 
+				"url" : "https://new.allover.top/hembedplayer/fstgsrgtsdfg77zcx/4/500/400",
+		   		"referer" : "https://new.allover.top/fstgsrgtsdfg77zcx",
+			 	"isHost": "true" 
 			}, {
 				"name": "Canal 30",
 				"info": "locatedinfain",
@@ -6686,7 +6687,7 @@
 				"info": "wnm78",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
                       		"url" :  "https://bloodycount.net/embed/wnm78ydq",
-				"referer": "https://bedsport.live/",
+				"referer": "https://dabac.link",
              			"isHost": "true"
 			}, { 
                  		"name": "Canal 65",
@@ -6884,7 +6885,7 @@
 				}, {
 					"name": "Canal 15",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://ripplestream4u.shop/casting/stream-84.php",
+					"url" : "https://1.zhdcdn.zip/play.php?id=976",
 					"isHost" : "true"
 				}, {
 					"name": "Canal 16",
@@ -8223,7 +8224,7 @@
 								  "name": "MotoGP Android/iOS",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
 								  "url":"https://bloodycount.net/embed/wnm78ydq",
-								  "referer": "https://bedsport.live/",
+								  "referer": "https://dabac.link",
 								  "isHost" : "true"
 							   }, {
 								  "name": "Canal 1",
@@ -10066,7 +10067,7 @@
                                     "info": "",
                                     "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
                                     "url": "https://bloodycount.net/embed/wnm78ydq",
-                                    "referer" : "https://bedsport.live/",
+                                    "referer" : "https://dabac.link",
                                     "isHost":"true"
                             
                                 }, {
@@ -10252,10 +10253,10 @@
                                 }, {
 
                                     "name": "Canal 22",
-                                    "info": "",
+                                    "info": "-------------",
                                     "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-                                    "url": "https://catercollege.net/embed/ke1144883x9k0n",
-                                    "referer" : "https://tarjetarojaenvivo.lat/",
+                                    "url": "https://hornpot.net/embed/lk3n6n9gy",
+                                    "referer" : "https://powerover.site/",
                                     "isHost":"true"
                             
                                 }, {
@@ -10567,6 +10568,12 @@
 				"name": "NECESARIA",
 				"image": "https://i.blogs.es/f1febf/vpn/1366_2000.jpg"
 	 	}, {
+	   		"name": "LiveBoxPro",
+	   		"info": "",
+		  	"image": "https://play-lh.googleusercontent.com/F7ekYoYCKeRiE91ammRxhP_IpwKFF4CcU3YIuoAYYABoxE98DvSGESWOnyOIAH8KOQ",    
+			"url" : "https://liveboxpro.com/",
+		 	"embed": "true"
+   		}, {
 	   		"name": "RojaDirecta [Oficial]",
 	   		"info": "",
 		  	"image": "https://blogger.googleusercontent.com/img/a/AVvXsEjyF-p6-sKFtdun9dUQCpCA5yATsEvuer8qLGt1TYgRNVMPCkZdpCiK-ZjRlLsz9hsZI2HK0BvnSqfTRuqArB-cwrneI-uCpAuwDgQ7Bs9A1v4XlZ5bMGLpGrTTio8tC4ea6IskCmC9KrXny8bZ37ETy-LlhospHTgfi_xLk_kMGgdExijYA9VeZHtd5ZJk=w504-h504",    
