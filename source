@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 24/09/2025",
+             "name": "Ultm. versión 27/09/2025",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 24/09/2025",
+            "info": "última versión actualizada el 27/09/2025",
             "stations": []
 	}, 
 	
@@ -3714,80 +3714,158 @@
 
 							{ 
 								 	"name": "DAZN Liga 1080p",
-									"info": "base-host [4fa1]",
+									"info": "base-host [e2b8]",
 									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "acestream://4fa168d5401e4b2673100b237a976961b52cf621",
+									"url" :  "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05",
 									"isHost": "true"
 							}, { 
 								 	"name": "DAZN Liga 1080p",
-									"info": "base-agent [4fa1]",
+									"info": "base-agent [e2b8]",
 									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "acestream://4fa168d5401e4b2673100b237a976961b52cf621",
+									"url" :  "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05",
 									"userAgent" : ""
 							}, { 
 								 	"name": "DAZN Liga 1080p",
-									"info": "base-embed [4fa1]",
+									"info": "base-embed [e2b8]",
 									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "acestream://4fa168d5401e4b2673100b237a976961b52cf621",
+									"url" :  "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05",
 									"embed": "true"
 							}, { 
 								 	"name": "DAZN Liga 1080p",
-									"info": "get-host [4fa1]",
+									"info": "get-host [e2b8]",
 									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05",
 									"isHost": "true"
 							}, { 
 								 	"name": "DAZN Liga 1080p",
-									"info": "get-agent [4fa1]",
+									"info": "get-agent [e2b8]",
 									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05",
 									"userAgent" : ""
 							}, { 
 								 	"name": "DAZN Liga 1080p",
-									"info": "get-embed [4fa1]",
+									"info": "get-embed [e2b8]",
 									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05",
 									"embed": "true"
 							}, 
 
 
 							{ 
 								 	"name": "DAZN Liga 1080p",
-									"info": "base-host [4e70]",
+									"info": "base-host [74de]",
 									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "acestream://4e70d4f61c0854d89f34b5bedfe851e33a515d95",
+									"url" :  "acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618",
 									"isHost": "true"
 							}, { 
 								 	"name": "DAZN Liga 1080p",
-									"info": "base-agent [4e70]",
+									"info": "base-agent [74de]",
 									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "acestream://4e70d4f61c0854d89f34b5bedfe851e33a515d95",
+									"url" :  "acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618",
 									"userAgent" : ""
 							}, { 
 								 	"name": "DAZN Liga 1080p",
-									"info": "base-embed [4e70]",
+									"info": "base-embed [74de]",
 									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "acestream://4e70d4f61c0854d89f34b5bedfe851e33a515d95",
+									"url" :  "acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618",
 									"embed": "true"
 							}, { 
 								 	"name": "DAZN Liga 1080p",
-									"info": "get-host [4e70]",
+									"info": "get-host [74de]",
 									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=4e70d4f61c0854d89f34b5bedfe851e33a515d95",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618",
 									"isHost": "true"
 							}, { 
 								 	"name": "DAZN Liga 1080p",
-									"info": "get-agent [4e70]",
+									"info": "get-agent [74de]",
 									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=4e70d4f61c0854d89f34b5bedfe851e33a515d95",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618",
 									"userAgent" : ""
 							}, { 
 								 	"name": "DAZN Liga 1080p",
-									"info": "get-embed [4e70]",
+									"info": "get-embed [74de]",
 									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=4e70d4f61c0854d89f34b5bedfe851e33a515d95",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618",
 									"embed": "true"
-							}, 
+							},
+
+
+							{ 
+								 	"name": "DAZN Liga 1080p",
+									"info": "base-host [0e50]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream://0e50439e68aa2435b38f0563bb2f2e98f32ff4b1",
+									"isHost": "true"
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "base-agent [0e50]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream://0e50439e68aa2435b38f0563bb2f2e98f32ff4b1",
+									"userAgent" : ""
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "base-embed [0e50]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream://0e50439e68aa2435b38f0563bb2f2e98f32ff4b1",
+									"embed": "true"
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "get-host [0e50]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1",
+									"isHost": "true"
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "get-agent [0e50]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1",
+									"userAgent" : ""
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "get-embed [0e50]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1",
+									"embed": "true"
+							},
+
+
+							{ 
+								 	"name": "DAZN Liga 1080p",
+									"info": "base-host [1bb5]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream://1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884",
+									"isHost": "true"
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "base-agent [1bb5]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream://1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884",
+									"userAgent" : ""
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "base-embed [1bb5]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream://1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884",
+									"embed": "true"
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "get-host [1bb5]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884",
+									"isHost": "true"
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "get-agent [1bb5]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884",
+									"userAgent" : ""
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "get-embed [1bb5]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884",
+									"embed": "true"
+							},
 
 
 							{ 
@@ -3870,39 +3948,39 @@
 
 				{ 
                 	 		"name": "DAZN Liga 2 1080p",
-					"info": "base-host [5af5]",
+					"info": "base-host [5091]",
                     			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
-                    			"url" :  "acestream://5af57417a2d24008861ed25a8a400ac6d5144afb",
+                    			"url" :  "acestream://5091ea94b75ba4b50b078b4102a3d0e158ef59c3",
 					"isHost": "true"
 				}, { 
                 	 		"name": "DAZN Liga 2 1080p",
-					"info": "base-agent [5af5]",
+					"info": "base-agent [5091]",
                     			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
-                    			"url" :  "acestream://5af57417a2d24008861ed25a8a400ac6d5144afb",
+                    			"url" :  "acestream://5091ea94b75ba4b50b078b4102a3d0e158ef59c3",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "DAZN Liga 2 1080p",
-					"info": "base-embed [5af5]",
+					"info": "base-embed [5091]",
                     			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
-                    			"url" :  "acestream://5af57417a2d24008861ed25a8a400ac6d5144afb",
+                    			"url" :  "acestream://5091ea94b75ba4b50b078b4102a3d0e158ef59c3",
 					"embed": "true"
 				}, { 
                 	 		"name": "DAZN Liga 2 1080p",
-					"info": "get-host [5af5]",
+					"info": "get-host [5091]",
                     			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=5af57417a2d24008861ed25a8a400ac6d5144afb",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3",
 					"isHost": "true"
 				}, { 
                 	 		"name": "DAZN Liga 2 1080p",
-					"info": "get-agent [5af5]",
+					"info": "get-agent [5091]",
                     			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=5af57417a2d24008861ed25a8a400ac6d5144afb",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "DAZN Liga 2 1080p",
-					"info": "get-embed [5af5]",
+					"info": "get-embed [5091]",
                     			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=5af57417a2d24008861ed25a8a400ac6d5144afb",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3",
 					"embed": "true"
 				},
 
@@ -5866,7 +5944,7 @@
 	}, {
                  	"name": "Canal 14",
                     	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-		      	"url" : "https://superiorcrop.net/embed/ekm9z79niibzy",
+		      	"url" : "https://superiorcrop.net/embed/ke1144883x9k0n",
 			"referer": "https://tarjetarojaenvivo.lat/",
                     	"isHost" : "true"
 	}, {
@@ -6302,10 +6380,10 @@
 				"isHost": "true"  
 			 }, {
 				"name": "Canal 4",
-				"info": "Fijo: DAZN | w2iuo <2>",
+				"info": "Fijo: DAZN | - <2>",
 				"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-				"url" :  "https://letscast.pro/steam.php?stream=YJ8krnYwZrR",
-				"referer" : "https://livestreams.click/",
+				"url" :  "https://hornpot.net/embed/0187w",
+				"referer" : "https://welivesport.shop/",
 				"isHost": "true"
 			}, {
 				"name": "Canal 5",
@@ -6316,7 +6394,7 @@
 				"isHost": "true"
 			 }, {
 				"name": "Canal 6",
-				"info": "Fijo: DAZN | w2iuo <3>",
+				"info": "Fijo: DAZN | e4ib <3>",
 				"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
 				"url" :  "https://bloodycount.net/embed/e4ibxltyf3ea0",
 				"referer" : "https://bedsport.live/",
@@ -6325,7 +6403,7 @@
 				"name": "Canal 7",
 				"info": "e4ibx",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://la14hd.com:443/vivo/canales.php?stream=disney1", 
+				"url" : "https://la14hd.com:443/vivo/canales.php?stream=disney3", 
 				"userAgent" : "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
 				"isHost" : "true"
 			  }, {
@@ -6337,10 +6415,10 @@
 				"isHost" : "true"
 				 }, {
 				"name": "Canal 9",
-			   	"info": "php",
+			   	"info": "m4vi3",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" :  "https://1.zhdcdn.zip/embed2.php?a=976&s=3dea3654924865fff5fc8cfca5eb39f5&ip=23.106.56.11&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A139.0%29+Gecko%2F20100101+Firefox%2F139.0&referer=https%3A%2F%2Fespngratis.com%2F",
-				"referer" : "https://1.zhdcdn.zip/play.php?id=976",
+				"url" :  "https://dropbang.net/embed/m4vi31opfdn06q4",
+				"referer" : "https://buzztv.futbol/",
 				"isHost" : "true"
 					  }, {
 						   	"name": "Canal 10",
@@ -6866,7 +6944,8 @@
 				}, {
 					"name": "Canal 12",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://pandastreamz.shop/player/stream-538.php",
+					"url" : "https://mediacast.click/emb01/beinlaliga.php",
+					"referer" : "https://mediacast.click/live/beinlaliga_spain.php",
 					"isHost" : "true"
 				}, {
 					"name": "Canal 13",
@@ -8018,7 +8097,7 @@
 								"name": "Canal 5",
 								"info": "r23llp",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-							 	"url": "https://catercollege.net/embed/r23llp",
+							 	"url": "https://laceaccept.net/embed/r23llp",
                    						"referer" : "https://tarjetarojaenvivo.lat/",
                     						"isHost": "true"  
 							  }, {
