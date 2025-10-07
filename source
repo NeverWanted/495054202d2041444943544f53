@@ -1,13 +1,13 @@
 {
     "name": "Ɨ₱₮ - ₳ƉƗ€₮Ø$",
     "author": "MoDz",
-    "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
+    "image": "https://i.ibb.co/T0LndcT/Pic-Profile-HW.png",
     "info": "Ɨ₱₮⩔ oficial de FUTBOL-ADICTOS",
     "telegram": "+Txo_BnIiSddiMTk0",
     "url": "https://raw.githubusercontent.com/NeverWanted/495054202d2041444943544f53/main/source",
     "groups": [{
              "name": "FUTBOL - ADICTOS",
-            "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
+            "image": "https://i.ibb.co/T0LndcT/Pic-Profile-HW.png",
             "info": "",
             "stations": [
 	    	{
@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 27/09/2025",
+             "name": "Ultm. versión 07/10/2025",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 27/09/2025",
+            "info": "última versión actualizada el 07/10/2025",
             "stations": []
 	}, 
 	
@@ -5836,8 +5836,8 @@
 				"name": "Canal 6",
 				"info": "php",
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
-				"url" : "https://miztv.top/stream/stream-528.php",
-			 	"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+				"url" : "https://world-proxifier.xyz/proxy/p/0002/fGEMBHphWRJhb29tUWFrEmF0BnF3CgQEAA8CDAZhWRJhBQIHBXoNCHcGUWNrEGEHBnQEcQpxdQhwD2FbEGETeAUGcxJCdnESaWkQTnB3CnZ1AnMSRnANBRBpaRJUUVdjaxBhdnVzBgAOAHZxDWFZEmEJdXdxdFlsbgVwDgxwUA0GeG0NBngMdnBtc3RuBXAODHBQbHFzBgwKdg5WUVduDHAPcG8OUnZVYWsQYwkGAgcGc3RjWRB8YxZ0BnFsQAgED3VhWxBhTHJ7Cg0PAm5Ub28QZwgRCXANBloQQBEWEAgRCXANBhBOFhBQVgJWEA0IDAYQTgIEEEwUEBlqEEBxcw0GGAQDSgp3blVvVm1QbVJUEGdIRxVMSWsQDQgMBhBEBgQMcmgQFwRzdApyD25QVW1vEE5wAwoPBm5QVkRQU1UQFAIFAnMKbFVvU29QYWsSYU5zCAgKD2NZEGELdXVxdllubnMMcQIOCnENAHpteXh7YWsSYRMGBQZzBnFhWRBjCXV1c3RZbmxxDHEADApxDwJ6bXt6e25jfmsQY3APDXgAcXNyeXoADgZ6dGNZEHVxdgZrEmFxc3J5emFbEA92Dw1-/index.m3u8",
+			 	"userAgent": ""
 		       }, {
         			"name": "Canal 7*",
         			"info":"",
@@ -6403,9 +6403,8 @@
 				"name": "Canal 7",
 				"info": "e4ibx",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://la14hd.com:443/vivo/canales.php?stream=disney3", 
-				"userAgent" : "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
-				"isHost" : "true"
+				"url" : "https://world-proxifier.xyz/proxy/p/0002/fGEMBHphWRJhb29tUWFrEmF0BnF3CgQEAA8CDAZhWRJhBQIHBXoNCHcGAHd4cGFpEGEFBHQEcwhxdQpyD2FZEmEUcQAKDxBuEEsCEksKCAAQWRBGDQQJBBB3dBJCBg13AhAFBBAXCgpwEGlrEEQUE00QQwRxcHN3BnQQa2kQUlRUYWsSYXR1cQYCDgJ2cw1jWRBhC3V1cXZZbm55BgxwDQZ4bQ0GeAx2cG1zdG57Bg5wbnFxBg4KdA5SVlZuDnANcG0OUHZXYWkQYQkEAgUGcXRhWRJ8YRZ2BnNsQggGD3dhWRBjTHB7CA0NAmxUbW8SZwoRC3APBlgQQhEUEAoRC3APBhJOFBBSVgBWEg0KDAQQTAIGEE4UEhloEEJxcQ0EGAYDSAp1bldvVG1SbVBUEmdKRxdMS2sSDQoMBBBGBgYMcGgSFwZzdgpwD2xQV21tEExwAQoNBmxQVERSU1cQFgIHAnEKblVtU21QY2sQYUxzCggID2FZEmEJdXdxdFlsbnEMcwIMCnMNAnpveXp7Y2sQYREGBwZxBnNhWxBhCXd1cXRbbm5xDnECDAhxDQJ4bXl6eW5hfmkQYXANDXoAc3NweXgADAZ4dGFZEnVzdgRrEGFzc3B5eGFZEA12DQ18/index.m3u8", 
+				"userAgent" : ""
 			  }, {
 				"name": "Canal 8",
 				"info": "8xjdm",
@@ -6542,8 +6541,8 @@
 			}, {
 				"name": "Canal 29",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://new.allover.top/hembedplayer/fstgsrgtsdfg77zcx/4/500/400",
-		   		"referer" : "https://new.allover.top/fstgsrgtsdfg77zcx",
+				"url" : "https://new.allover.top/hembedplayer/hgdfgh1df/4/500/400",
+		   		"referer" : "https://new.allover.top/hgdfgh1df",
 			 	"isHost": "true" 
 			}, {
 				"name": "Canal 30",
@@ -6765,7 +6764,7 @@
 				"info": "wnm78",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
                       		"url" :  "https://bloodycount.net/embed/wnm78ydq",
-				"referer": "https://dabac.link",
+				"referer": "https://bedsport.live/",
              			"isHost": "true"
 			}, { 
                  		"name": "Canal 65",
@@ -6951,7 +6950,7 @@
 					"name": "Canal 13",
 					"info": "php",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://laceaccept.net/embed/eur8cbk",
+					"url" : "https://catercollege.net/embed/eur8cbk",
 					"referer" : "https://tarjetarojaenvivo.lat/",
 				  	"isHost" : "true"
 				}, {
@@ -7962,34 +7961,34 @@
 								"name": "Canal 1",
 								"info": "eiqew",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-							  	"url": "https://bloodycount.net/embed/wsb3s9ow3e3",
+							  	"url": "https://bloodycount.net/embed/y8pde",
 	        						"referer" : "https://bedsport.live/",
                   						"isHost": "true"
 							},{
 							   	"name": "Canal 2",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-								"url": "https://bloodycount.net/embed/7za23cu",
+								"url": "https://bloodycount.net/embed/g42s0o",
 								"referer" : "https://bedsport.live/",
 							  	"isHost": "true"
 							},{ 
 							 	"name": "Canal 3",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-								"url": "https://bloodycount.net/embed/j66qmcpw",
+								"url": "https://bloodycount.net/embed/fzlmto5c8",
                        						"referer" : "https://bedsport.live/",
 								"isHost": "true"
 							},{ 
 							 	"name": "Canal 4",
-								"info": "csdj-rq4g6 | tjtr",
+								"info": "",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-						   		"url" : "https://closedjelly.net/embed/rq4g6",
-								"referer" : "https://tarjetarojaenvivo.lat/",
+						   		"url" : "https://bloodycount.net/embed/gu05r8ig",
+								"referer" : "https://bedsport.live/",
 								"isHost":"true"
 						 	},{
 								"name": "Canal 5",
-								"info": "csdj-105qqn | tjtr",
+								"info": "",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-							 	"url": "https://closedjelly.net/embed/105qqn",
-							  	"referer" : "https://tarjetarojaenvivo.lat/",
+							 	"url": "https://bloodycount.net/embed/cxb0gmvn3238xq",
+							  	"referer" : "https://bedsport.live/",
 						 		"isHost": "true"
 						  	},{
 								"name": "Canal 6",
@@ -8319,10 +8318,10 @@
 								  "isHost" : "true"
 							  }, {
 								  "name": "Canal 3",
-								  "info": "m3u8",
+								  "info": "php",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								  "url": "https://seed.nakachi.online/hls/tnt2-uk/playlist.m3u8",
-								  "userAgent":""
+								  "url": "https://streambtw.live/embed/moto.php",
+								  "isHost" : "true"
 							   }, {
 								  "name": "Canal 4",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
@@ -9109,6 +9108,36 @@
 			"name": "Canal 16",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "https://flstv.online/embed/nfl14.php",
+			"isHost": "true"    
+		}, {
+			"name": "Canal 17",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "https://arizonaplay.club/hls3.php?stream=HDGAZ1",
+			"referer" : "https://streamingon.org/",
+			"isHost": "true"    
+		}, {
+			"name": "Canal 18",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "https://arizonaplay.club/hls3.php?stream=HDGQ1",
+			"referer" : "https://streamingon.org/",
+			"isHost": "true"    
+		}, {
+			"name": "Canal 19",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "https://arizonaplay.club/hls3.php?stream=HDGQ3",
+			"referer" : "https://streamingon.org/",
+			"isHost": "true"    
+		}, {
+			"name": "Canal 20",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "https://arizonaplay.club/hls3.php?stream=HDGQ4",
+			"referer" : "https://streamingon.org/",
+			"isHost": "true"    
+		}, {
+			"name": "Canal 21",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "https://arizonaplay.club/hls3.php?stream=HDGQ5",
+			"referer" : "https://streamingon.org/",
 			"isHost": "true"    
 		}]
 		 	}, {
@@ -10163,8 +10192,8 @@
                                     "name": "Canal 3",
                                     "info": "",
                                     "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-                                    "url": "https://new.allover.top/hembedplayer/hgdejhfsdhd44md/4/500/400",
-                                    "referer" : "https://new.allover.top/hgdejhfsdhd44md",
+                                    "url": "https://bloodycount.net/embedre856noa",
+                                    "referer" : "https://bedsport.live/",
                                     "isHost":"true"
                             
                                 }, {
@@ -10332,10 +10361,10 @@
                                 }, {
 
                                     "name": "Canal 22",
-                                    "info": "-------------",
+                                    "info": "",
                                     "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-                                    "url": "https://hornpot.net/embed/lk3n6n9gy",
-                                    "referer" : "https://powerover.site/",
+                                    "url": "https://catercollege.net/embed/5vl1f5yw",
+                                    "referer" : "https://tarjetarojaenvivo.lat/",
                                     "isHost":"true"
                             
                                 }, {
@@ -10343,8 +10372,8 @@
                                     "name": "Canal 23",
                                     "info": "",
                                     "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-                                    "url": "https://jointexploit.net/embed/x2qidlx7",
-                                    "referer" : "https://buzztv.futbol/",
+                                    "url": "https://catercollege.net/embed/xhh0h43hpx2v7",
+                                    "referer" : "https://tarjetarojaenvivo.lat/",
                                     "isHost":"true"
                             
                                 }, {
@@ -10352,7 +10381,7 @@
                                     "name": "Canal 24",
                                     "info": "",
                                     "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-                                    "url": "https://catchthrust.net/embed/xitymii",
+                                    "url": "https://catercollege.net/embed/xitymii",
                                     "referer" : "https://tarjetarojaenvivo.lat/",
                                     "isHost":"true"
                             
@@ -10361,17 +10390,17 @@
                                     "name": "Canal 25",
                                     "info": "",
                                     "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-                                    "url": "https://generalpilli.net/embed/vq9vkhj3o",
+                                    "url": "https://bloodycount.net/embed/3d44n21uf8pkocd",
                                     "referer" : "https://bedsport.live/",
                                     "isHost":"true"
                             
                                 }, {
 
                                     "name": "Canal 26",
-                                    "info": "",
+                                    "info": "------------",
                                     "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-                                    "url": "https://jointexploit.net/embed/x2qidlx7",
-                                    "referer" : "https://buzztv.futbol/",
+                                    "url": "https://new.allover.top/hembedplayer/fgrhyfj3bgfh/4/500/400",
+                                    "referer" : "https://new.allover.top/fgrhyfj3bgfh",
                                     "isHost":"true"
                             
                                 }
